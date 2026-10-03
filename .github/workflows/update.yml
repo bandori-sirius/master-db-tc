@@ -1,0 +1,53 @@
+name: dump master data on version change
+
+on:
+  schedule:
+    - cron: '11,41 * * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout this repo
+        uses: actions/checkout@v7
+        with:
+          path: repo
+
+      - name: Checkout the dumper
+        uses: actions/checkout@v7
+        with:
+          repository: bandori-sirius/master-db-dumper
+          token: ${{ secrets.ACCESS_TOKEN }}
+          path: dumper
+          persist-credentials: false
+
+      - uses: actions/setup-python@v7
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          python -m pip install -r dumper/requirements.txt
+
+      - name: Run updater
+        id: updater
+        run: python dumper/updater.py tc --out repo
+
+      - name: Commit changes
+        working-directory: repo
+        shell: bash
+        env:
+          VERSION: ${{ steps.updater.outputs.version }}
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add .
+          git diff --staged --quiet || (git commit -m "update to ${VERSION:-a new version}" && git push)
