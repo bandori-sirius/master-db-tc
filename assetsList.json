@@ -1,8 +1,8 @@
 {
-  "resourceVersion": "1.0.6.700.f1d8e3a6",
+  "resourceVersion": "1.0.6.701.300eb568",
   "platforms": {
     "Android": {
-      "catalog": "Android/catalog_1.0.6.700.f1d8e3a6_zh-Hant.bin",
+      "catalog": "Android/catalog_1.0.6.701.300eb568_zh-Hant.bin",
       "assets": [
         {
           "internalId": "https://dummy.net/asset/Android/adv-chat-data_assets_adv-chat-data-001_tomorieverything_1ceb474fdf1d0897ed52095688a696dc.bundle",
@@ -45041,16 +45041,16 @@
           "size": 9133664
         },
         {
-          "internalId": "https://dummy.net/asset/Android/character-live2d_assets_character-live2d-021_adv-adv_live2d_raika_021_arbeit_livehouse_01everythinginitialdownload_787c9fb4cfbf4ddd2bd6408d4a387e4c.bundle",
-          "hash": "787c9fb4cfbf4ddd2bd6408d4a387e4c",
-          "crc": 3458202534,
-          "size": 3286171
+          "internalId": "https://dummy.net/asset/Android/character-live2d_assets_character-live2d-021_adv-adv_live2d_raika_021_arbeit_livehouse_01everythinginitialdownload_d538036400ee0e85fc99ad57deec1f4d.bundle",
+          "hash": "d538036400ee0e85fc99ad57deec1f4d",
+          "crc": 2209130363,
+          "size": 3283637
         },
         {
-          "internalId": "https://dummy.net/asset/Android/character-live2d_assets_character-live2d-021_adv-adv_live2d_raika_021_casual_spring_01everythinginitialdownload_10de4d0590e285fcb31c0815763a2dd5.bundle",
-          "hash": "10de4d0590e285fcb31c0815763a2dd5",
-          "crc": 2770768851,
-          "size": 5023546
+          "internalId": "https://dummy.net/asset/Android/character-live2d_assets_character-live2d-021_adv-adv_live2d_raika_021_casual_spring_01everythinginitialdownload_0527fc19add318262807f82d8555d103.bundle",
+          "hash": "0527fc19add318262807f82d8555d103",
+          "crc": 1180308498,
+          "size": 5020736
         },
         {
           "internalId": "https://dummy.net/asset/Android/character-live2d_assets_character-live2d-021_adv-adv_live2d_raika_021_child_casual_spring_01_stilleverythinginitialdownload_ae27e548655dc63280d08fd33499c9d0.bundle",
@@ -45059,22 +45059,22 @@
           "size": 4116757
         },
         {
-          "internalId": "https://dummy.net/asset/Android/character-live2d_assets_character-live2d-021_adv-adv_live2d_raika_021_live_01everythinginitialdownload_a095a94d9a3700d7914704213c391d36.bundle",
-          "hash": "a095a94d9a3700d7914704213c391d36",
-          "crc": 466502618,
-          "size": 3291992
+          "internalId": "https://dummy.net/asset/Android/character-live2d_assets_character-live2d-021_adv-adv_live2d_raika_021_live_01everythinginitialdownload_cfa57c804d9498d7169bcee87e1459c0.bundle",
+          "hash": "cfa57c804d9498d7169bcee87e1459c0",
+          "crc": 3859898806,
+          "size": 3288555
         },
         {
-          "internalId": "https://dummy.net/asset/Android/character-live2d_assets_character-live2d-021_adv-adv_live2d_raika_021_roomwear_01everythinginitialdownload_ab28d6ca69d2a4caabc7db555e82ff54.bundle",
-          "hash": "ab28d6ca69d2a4caabc7db555e82ff54",
-          "crc": 690869142,
-          "size": 19877013
+          "internalId": "https://dummy.net/asset/Android/character-live2d_assets_character-live2d-021_adv-adv_live2d_raika_021_roomwear_01everythinginitialdownload_3f3575fe40ac51ccacc335c1e1a67a15.bundle",
+          "hash": "3f3575fe40ac51ccacc335c1e1a67a15",
+          "crc": 212080485,
+          "size": 19874311
         },
         {
-          "internalId": "https://dummy.net/asset/Android/character-live2d_assets_character-live2d-021_adv-adv_live2d_raika_021_school_winter_hs_2ndeverythinginitialdownload_f3b8a6df97bce45b5ce08efa22abaad1.bundle",
-          "hash": "f3b8a6df97bce45b5ce08efa22abaad1",
-          "crc": 258558898,
-          "size": 4939652
+          "internalId": "https://dummy.net/asset/Android/character-live2d_assets_character-live2d-021_adv-adv_live2d_raika_021_school_winter_hs_2ndeverythinginitialdownload_7a20cb43395c9d9530c3cf3c3b04b32b.bundle",
+          "hash": "7a20cb43395c9d9530c3cf3c3b04b32b",
+          "crc": 3320508126,
+          "size": 4936741
         },
         {
           "internalId": "https://dummy.net/asset/Android/character-live2d_assets_character-live2d-021_live-live2d_raika_021_live_01_loweverythinginitialdownload_d6a6e6aaad8394aeb9ca333baf4f4e7b.bundle",
@@ -62255,10 +62255,10 @@
           "size": 168800
         },
         {
-          "internalId": "https://dummy.net/asset/Android/gachaanimation_assets_gachaanimation_1_intro__prefab_gachaphone_4175b7d01de7edd7a2264057d5b2f263.bundle",
-          "hash": "4175b7d01de7edd7a2264057d5b2f263",
-          "crc": 602435534,
-          "size": 27984
+          "internalId": "https://dummy.net/asset/Android/gachaanimation_assets_gachaanimation_1_intro__prefab_gachaphone_00f1f55d5334d127bdedf6fb235487ae.bundle",
+          "hash": "00f1f55d5334d127bdedf6fb235487ae",
+          "crc": 3775657157,
+          "size": 27983
         },
         {
           "internalId": "https://dummy.net/asset/Android/gachaanimation_assets_gachaanimation_1_intro__prefab_gachastage_b9c90fa39355ce379e592a8821c486ee.bundle",
@@ -62837,63 +62837,63 @@
           "size": 6423
         },
         {
-          "internalId": "https://dummy.net/asset/Android/gachaanimation_assets_gachaanimation_2_screen_prefab_gachaanimation_member_bd_5e568dc44a3195a80ae22cbc73df1a52.bundle",
-          "hash": "5e568dc44a3195a80ae22cbc73df1a52",
-          "crc": 1048985209,
-          "size": 61159
+          "internalId": "https://dummy.net/asset/Android/gachaanimation_assets_gachaanimation_2_screen_prefab_gachaanimation_member_bd_a274405af11df2d3599ec4f3de6c83cf.bundle",
+          "hash": "a274405af11df2d3599ec4f3de6c83cf",
+          "crc": 3785680150,
+          "size": 61182
         },
         {
-          "internalId": "https://dummy.net/asset/Android/gachaanimation_assets_gachaanimation_2_screen_prefab_gachaanimation_member_r_0ddbb8e843f773c6d2395be5e04c9783.bundle",
-          "hash": "0ddbb8e843f773c6d2395be5e04c9783",
-          "crc": 2630431703,
+          "internalId": "https://dummy.net/asset/Android/gachaanimation_assets_gachaanimation_2_screen_prefab_gachaanimation_member_r_6facd85da86b202458e56c55027c042f.bundle",
+          "hash": "6facd85da86b202458e56c55027c042f",
+          "crc": 4048969170,
           "size": 39249
         },
         {
-          "internalId": "https://dummy.net/asset/Android/gachaanimation_assets_gachaanimation_2_screen_prefab_gachaanimation_member_rtossr_d29f9ad05abb5d6ad404923da5c33811.bundle",
-          "hash": "d29f9ad05abb5d6ad404923da5c33811",
-          "crc": 1912054321,
-          "size": 110839
+          "internalId": "https://dummy.net/asset/Android/gachaanimation_assets_gachaanimation_2_screen_prefab_gachaanimation_member_rtossr_7a3ae6f5f8722d135b46784db188f2f8.bundle",
+          "hash": "7a3ae6f5f8722d135b46784db188f2f8",
+          "crc": 3143370458,
+          "size": 110834
         },
         {
-          "internalId": "https://dummy.net/asset/Android/gachaanimation_assets_gachaanimation_2_screen_prefab_gachaanimation_member_sr_c225d119bf21edd55b0a6f6a1025efb7.bundle",
-          "hash": "c225d119bf21edd55b0a6f6a1025efb7",
-          "crc": 2709884624,
+          "internalId": "https://dummy.net/asset/Android/gachaanimation_assets_gachaanimation_2_screen_prefab_gachaanimation_member_sr_2407c172a621d28a8acc73f54232aac6.bundle",
+          "hash": "2407c172a621d28a8acc73f54232aac6",
+          "crc": 687932587,
           "size": 40085
         },
         {
-          "internalId": "https://dummy.net/asset/Android/gachaanimation_assets_gachaanimation_2_screen_prefab_gachaanimation_member_ssr_758bfcc969f619839c924c75de5c514d.bundle",
-          "hash": "758bfcc969f619839c924c75de5c514d",
-          "crc": 3988053598,
-          "size": 97416
+          "internalId": "https://dummy.net/asset/Android/gachaanimation_assets_gachaanimation_2_screen_prefab_gachaanimation_member_ssr_fa39e59b4e335f5699656efd856adf6d.bundle",
+          "hash": "fa39e59b4e335f5699656efd856adf6d",
+          "crc": 3809821871,
+          "size": 97413
         },
         {
-          "internalId": "https://dummy.net/asset/Android/gachaanimation_assets_gachaanimation_2_screen_prefab_gachaanimation_member_ssr_root_21810cb6e7ea828d385edfcc43bfcf62.bundle",
-          "hash": "21810cb6e7ea828d385edfcc43bfcf62",
-          "crc": 1425433640,
-          "size": 98386
+          "internalId": "https://dummy.net/asset/Android/gachaanimation_assets_gachaanimation_2_screen_prefab_gachaanimation_member_ssr_root_651886bfced6388b49a1c3d0647a854e.bundle",
+          "hash": "651886bfced6388b49a1c3d0647a854e",
+          "crc": 2550632130,
+          "size": 98370
         },
         {
-          "internalId": "https://dummy.net/asset/Android/gachaanimation_assets_gachaanimation_2_screen_prefab_gachaanimation_support_r_624f614eb7ef4929706688b2c2a8ab94.bundle",
-          "hash": "624f614eb7ef4929706688b2c2a8ab94",
-          "crc": 1436277053,
+          "internalId": "https://dummy.net/asset/Android/gachaanimation_assets_gachaanimation_2_screen_prefab_gachaanimation_support_r_0db5338228e4e7f27faf9c42414e8441.bundle",
+          "hash": "0db5338228e4e7f27faf9c42414e8441",
+          "crc": 1664468422,
           "size": 39048
         },
         {
-          "internalId": "https://dummy.net/asset/Android/gachaanimation_assets_gachaanimation_2_screen_prefab_gachaanimation_support_sr_1ded3dbaee5a6e78daa7ff615517faef.bundle",
-          "hash": "1ded3dbaee5a6e78daa7ff615517faef",
-          "crc": 4028961572,
+          "internalId": "https://dummy.net/asset/Android/gachaanimation_assets_gachaanimation_2_screen_prefab_gachaanimation_support_sr_e81a88e381f4f4858bdf53fe17836995.bundle",
+          "hash": "e81a88e381f4f4858bdf53fe17836995",
+          "crc": 1629617844,
           "size": 38753
         },
         {
-          "internalId": "https://dummy.net/asset/Android/gachaanimation_assets_gachaanimation_2_screen_prefab_gachaanimation_support_ssr_50df296fadad9abe14acb530e0f75cad.bundle",
-          "hash": "50df296fadad9abe14acb530e0f75cad",
-          "crc": 1350217288,
-          "size": 60491
+          "internalId": "https://dummy.net/asset/Android/gachaanimation_assets_gachaanimation_2_screen_prefab_gachaanimation_support_ssr_2bbbd9fd8f5fa9459e5885fb54b9ab0d.bundle",
+          "hash": "2bbbd9fd8f5fa9459e5885fb54b9ab0d",
+          "crc": 1591552079,
+          "size": 60503
         },
         {
-          "internalId": "https://dummy.net/asset/Android/gachaanimation_assets_gachaanimation_2_screen_prefab_gachaanimationuicanvas_9658676df1247906cb6ccbbd6ff738c8.bundle",
-          "hash": "9658676df1247906cb6ccbbd6ff738c8",
-          "crc": 1918475564,
+          "internalId": "https://dummy.net/asset/Android/gachaanimation_assets_gachaanimation_2_screen_prefab_gachaanimationuicanvas_f8c477d9e0a479ea6ea08b5f81245258.bundle",
+          "hash": "f8c477d9e0a479ea6ea08b5f81245258",
+          "crc": 2793766864,
           "size": 9685
         },
         {
@@ -62951,16 +62951,16 @@
           "size": 8251
         },
         {
-          "internalId": "https://dummy.net/asset/Android/gachaanimation_assets_gachaanimation_2_screen_prefab_gachavoiceanimation_34f7ce25447b203a3a912f8b25b5b422.bundle",
-          "hash": "34f7ce25447b203a3a912f8b25b5b422",
-          "crc": 1646066984,
+          "internalId": "https://dummy.net/asset/Android/gachaanimation_assets_gachaanimation_2_screen_prefab_gachavoiceanimation_78a26940a5e5a15288534d563f869aa5.bundle",
+          "hash": "78a26940a5e5a15288534d563f869aa5",
+          "crc": 3020608624,
           "size": 36257
         },
         {
-          "internalId": "https://dummy.net/asset/Android/gachaanimation_assets_gachaanimation_2_screen_prefab_gachavoicedirector_76c89c48dda3d54bde1f49056d415c80.bundle",
-          "hash": "76c89c48dda3d54bde1f49056d415c80",
-          "crc": 1345471398,
-          "size": 35732
+          "internalId": "https://dummy.net/asset/Android/gachaanimation_assets_gachaanimation_2_screen_prefab_gachavoicedirector_9c8928f15875e5ddc9bdfd3bc7a95344.bundle",
+          "hash": "9c8928f15875e5ddc9bdfd3bc7a95344",
+          "crc": 795337902,
+          "size": 35733
         },
         {
           "internalId": "https://dummy.net/asset/Android/gachaanimation_assets_gachaanimation_2_screen_prefab_lensflare_400e16a9251e2b60fe7d778d8f9066d9.bundle",
@@ -64781,10 +64781,10 @@
           "size": 1766
         },
         {
-          "internalId": "https://dummy.net/asset/Android/gachaanimation_assets_gachaanimation_scene_camerasandui_063e14f1d55d0d21f8bfe20dd83cffdf.bundle",
-          "hash": "063e14f1d55d0d21f8bfe20dd83cffdf",
-          "crc": 3305076842,
-          "size": 34743
+          "internalId": "https://dummy.net/asset/Android/gachaanimation_assets_gachaanimation_scene_camerasandui_204bed733e9936c33f7dc08b4c0b8e9a.bundle",
+          "hash": "204bed733e9936c33f7dc08b4c0b8e9a",
+          "crc": 460284905,
+          "size": 34749
         },
         {
           "internalId": "https://dummy.net/asset/Android/gachaanimation_assets_gachaanimation_scene_gachaanimation_branchvolume(1)profile_b7733f01983e22ecf8b224aa69b56c19.bundle",
@@ -64853,9 +64853,9 @@
           "size": 1784
         },
         {
-          "internalId": "https://dummy.net/asset/Android/gachaanimation_assets_gachaanimation_temp_productnamearea_81d85ac5d88d381f6108b518ce70f564.bundle",
-          "hash": "81d85ac5d88d381f6108b518ce70f564",
-          "crc": 1312395331,
+          "internalId": "https://dummy.net/asset/Android/gachaanimation_assets_gachaanimation_temp_productnamearea_47affee320133dadf58f81188ce7f042.bundle",
+          "hash": "47affee320133dadf58f81188ce7f042",
+          "crc": 1728566443,
           "size": 6919
         },
         {
@@ -64907,10 +64907,10 @@
           "size": 4173
         },
         {
-          "internalId": "https://dummy.net/asset/Android/gachaanimation_scenes_gachaanimation_scene_gachaanimation_555f48ba7a8957e1d6ee478ebed1d321.bundle",
-          "hash": "555f48ba7a8957e1d6ee478ebed1d321",
-          "crc": 904202876,
-          "size": 123842
+          "internalId": "https://dummy.net/asset/Android/gachaanimation_scenes_gachaanimation_scene_gachaanimation_03d6a57a4ac849cbef1fe5534c22a42e.bundle",
+          "hash": "03d6a57a4ac849cbef1fe5534c22a42e",
+          "crc": 971638425,
+          "size": 123841
         },
         {
           "internalId": "https://dummy.net/asset/Android/image_assets_image_background_battleliveresultbackground_e70a0cbc0b414ff2b5555a25f9da8e18.bundle",
@@ -72899,9 +72899,9 @@
           "size": 819014
         },
         {
-          "internalId": "https://dummy.net/asset/Android/loginbonus_assets_loginbonus_sprite_loginbonus_00004_45827817e39bab89aab00423ee5523ea.bundle",
-          "hash": "45827817e39bab89aab00423ee5523ea",
-          "crc": 4262407143,
+          "internalId": "https://dummy.net/asset/Android/loginbonus_assets_loginbonus_sprite_loginbonus_00004_71a2f7fdf473a74329439de4ed7d324a.bundle",
+          "hash": "71a2f7fdf473a74329439de4ed7d324a",
+          "crc": 575112708,
           "size": 515591
         },
         {
@@ -76655,10 +76655,10 @@
           "size": 8775
         },
         {
-          "internalId": "https://dummy.net/asset/Android/patch_assets_patch_app.runtime.patch-1.0.6_67126758ddd6bacc1bce75130d3e0ce1.bundle",
-          "hash": "67126758ddd6bacc1bce75130d3e0ce1",
-          "crc": 2351240110,
-          "size": 4159
+          "internalId": "https://dummy.net/asset/Android/patch_assets_patch_app.runtime.patch-1.0.6_4d461543b069803f9ee39157dc16b8a7.bundle",
+          "hash": "4d461543b069803f9ee39157dc16b8a7",
+          "crc": 3473532528,
+          "size": 4800
         },
         {
           "internalId": "https://dummy.net/asset/Android/patch_assets_patch_dummy_66b13f1986e0a5bb1cb379e15fc0f4f4.bundle",
@@ -85914,9 +85914,9 @@
         },
         {
           "internalId": "{UnityEngine.AddressableAssets.Addressables.RuntimePath}/Android/embbuildtempanchor_assets_all.bundle",
-          "hash": "a914bb89231d17203b69a7f7ff4592ab",
+          "hash": "081fc94f889ca6556fca470268621dc2",
           "crc": 0,
-          "size": 83299
+          "size": 83300
         },
         {
           "internalId": "{UnityEngine.AddressableAssets.Addressables.RuntimePath}/Android/embfont_assets_font-a-otf-shingopr6n-regular-splash.bundle",
@@ -85950,9 +85950,9 @@
         },
         {
           "internalId": "{UnityEngine.AddressableAssets.Addressables.RuntimePath}/Android/embfont_assets_font-fzlth_gb18030l2_r_fb.bundle",
-          "hash": "886d02f245baa45461d212c3821533ad",
+          "hash": "416b57feaf5b313c28587246606495ba",
           "crc": 0,
-          "size": 10823
+          "size": 12895
         },
         {
           "internalId": "{UnityEngine.AddressableAssets.Addressables.RuntimePath}/Android/embfont_assets_font-pretendard-semibold.bundle",
@@ -86095,7 +86095,7 @@
       ]
     },
     "iOS": {
-      "catalog": "iOS/catalog_1.0.6.700.f1d8e3a6_zh-Hant.bin",
+      "catalog": "iOS/catalog_1.0.6.701.300eb568_zh-Hant.bin",
       "assets": [
         {
           "internalId": "https://dummy.net/asset/iOS/adv-chat-data_assets_adv-chat-data-001_tomorieverything_f90b64a4fb592c0fc18e00335775cf71.bundle",
@@ -131134,16 +131134,16 @@
           "size": 9133664
         },
         {
-          "internalId": "https://dummy.net/asset/iOS/character-live2d_assets_character-live2d-021_adv-adv_live2d_raika_021_arbeit_livehouse_01everythinginitialdownload_2b4ff29b3ecd2a2aa18d024cc9b58b85.bundle",
-          "hash": "2b4ff29b3ecd2a2aa18d024cc9b58b85",
-          "crc": 284185971,
-          "size": 3286173
+          "internalId": "https://dummy.net/asset/iOS/character-live2d_assets_character-live2d-021_adv-adv_live2d_raika_021_arbeit_livehouse_01everythinginitialdownload_5e9c17cbb74e7aaa153730071612f93e.bundle",
+          "hash": "5e9c17cbb74e7aaa153730071612f93e",
+          "crc": 3485726406,
+          "size": 3283638
         },
         {
-          "internalId": "https://dummy.net/asset/iOS/character-live2d_assets_character-live2d-021_adv-adv_live2d_raika_021_casual_spring_01everythinginitialdownload_56445a6292120f01b1eb0c96553efce6.bundle",
-          "hash": "56445a6292120f01b1eb0c96553efce6",
-          "crc": 396767660,
-          "size": 5023546
+          "internalId": "https://dummy.net/asset/iOS/character-live2d_assets_character-live2d-021_adv-adv_live2d_raika_021_casual_spring_01everythinginitialdownload_a25ba489126411e8504de31c1a68ddbf.bundle",
+          "hash": "a25ba489126411e8504de31c1a68ddbf",
+          "crc": 1054271663,
+          "size": 5020734
         },
         {
           "internalId": "https://dummy.net/asset/iOS/character-live2d_assets_character-live2d-021_adv-adv_live2d_raika_021_child_casual_spring_01_stilleverythinginitialdownload_a0ee7c44c5f23852d673a4a972439a45.bundle",
@@ -131152,22 +131152,22 @@
           "size": 4116757
         },
         {
-          "internalId": "https://dummy.net/asset/iOS/character-live2d_assets_character-live2d-021_adv-adv_live2d_raika_021_live_01everythinginitialdownload_9ab6baf98231d93ae02d25ebd04e2d1c.bundle",
-          "hash": "9ab6baf98231d93ae02d25ebd04e2d1c",
-          "crc": 2118364225,
-          "size": 3291994
+          "internalId": "https://dummy.net/asset/iOS/character-live2d_assets_character-live2d-021_adv-adv_live2d_raika_021_live_01everythinginitialdownload_4256a7da2c4fd03fadcd616197b36a5a.bundle",
+          "hash": "4256a7da2c4fd03fadcd616197b36a5a",
+          "crc": 874161660,
+          "size": 3288558
         },
         {
-          "internalId": "https://dummy.net/asset/iOS/character-live2d_assets_character-live2d-021_adv-adv_live2d_raika_021_roomwear_01everythinginitialdownload_acc2488539535925368d8ba389fcf22e.bundle",
-          "hash": "acc2488539535925368d8ba389fcf22e",
-          "crc": 2684837933,
-          "size": 19877013
+          "internalId": "https://dummy.net/asset/iOS/character-live2d_assets_character-live2d-021_adv-adv_live2d_raika_021_roomwear_01everythinginitialdownload_230be290bdd6cb76e0d581dad489250c.bundle",
+          "hash": "230be290bdd6cb76e0d581dad489250c",
+          "crc": 1168608915,
+          "size": 19874310
         },
         {
-          "internalId": "https://dummy.net/asset/iOS/character-live2d_assets_character-live2d-021_adv-adv_live2d_raika_021_school_winter_hs_2ndeverythinginitialdownload_1673e35cda12b0295d64d75231c4bb50.bundle",
-          "hash": "1673e35cda12b0295d64d75231c4bb50",
-          "crc": 2137208815,
-          "size": 4939649
+          "internalId": "https://dummy.net/asset/iOS/character-live2d_assets_character-live2d-021_adv-adv_live2d_raika_021_school_winter_hs_2ndeverythinginitialdownload_93472fd5631b0ba0ed531af2e28f4104.bundle",
+          "hash": "93472fd5631b0ba0ed531af2e28f4104",
+          "crc": 2886743318,
+          "size": 4936739
         },
         {
           "internalId": "https://dummy.net/asset/iOS/character-live2d_assets_character-live2d-021_live-live2d_raika_021_live_01_loweverythinginitialdownload_aeb31b06a6a3e9817a172d01fee83ff5.bundle",
@@ -158992,9 +158992,9 @@
           "size": 819014
         },
         {
-          "internalId": "https://dummy.net/asset/iOS/loginbonus_assets_loginbonus_sprite_loginbonus_00004_b160bfa07d1344c9f7bf9ded97a649d8.bundle",
-          "hash": "b160bfa07d1344c9f7bf9ded97a649d8",
-          "crc": 2885975500,
+          "internalId": "https://dummy.net/asset/iOS/loginbonus_assets_loginbonus_sprite_loginbonus_00004_f8be19f5c0fda19d1ecf1cdc49d23352.bundle",
+          "hash": "f8be19f5c0fda19d1ecf1cdc49d23352",
+          "crc": 640641740,
           "size": 515591
         },
         {
@@ -162748,10 +162748,10 @@
           "size": 8775
         },
         {
-          "internalId": "https://dummy.net/asset/iOS/patch_assets_patch_app.runtime.patch-1.0.6_67126758ddd6bacc1bce75130d3e0ce1.bundle",
-          "hash": "67126758ddd6bacc1bce75130d3e0ce1",
-          "crc": 4018254834,
-          "size": 4159
+          "internalId": "https://dummy.net/asset/iOS/patch_assets_patch_app.runtime.patch-1.0.6_4d461543b069803f9ee39157dc16b8a7.bundle",
+          "hash": "4d461543b069803f9ee39157dc16b8a7",
+          "crc": 3374531316,
+          "size": 4801
         },
         {
           "internalId": "https://dummy.net/asset/iOS/patch_assets_patch_dummy_66b13f1986e0a5bb1cb379e15fc0f4f4.bundle",
@@ -172007,7 +172007,7 @@
         },
         {
           "internalId": "{UnityEngine.AddressableAssets.Addressables.RuntimePath}/iOS/embbuildtempanchor_assets_all.bundle",
-          "hash": "09376648ff4410d87f1ffae88cd88235",
+          "hash": "a18d445bbf84c81458e1d8c32c825216",
           "crc": 0,
           "size": 85243
         },
