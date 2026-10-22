@@ -2321,6 +2321,17 @@
       "_endAt": ""
     },
     {
+      "_id": 264,
+      "_nameTextId": "Degree_Name_264",
+      "_descriptionTextId": "Degree_Description_264",
+      "_degreeType": 3,
+      "_characterIds": [],
+      "_imagePath": "Image/Degree/Media/mujica/degree_7th_live_02_02",
+      "_orderNum": 264,
+      "_startAt": "",
+      "_endAt": ""
+    },
+    {
       "_id": 20000001,
       "_nameTextId": "Degree_Name_20000001",
       "_descriptionTextId": "Degree_Description_20000001",
