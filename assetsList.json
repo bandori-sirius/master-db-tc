@@ -1,8 +1,8 @@
 {
-  "resourceVersion": "1.0.6.701.300eb568",
+  "resourceVersion": "1.0.6.800.ed4cb6f0",
   "platforms": {
     "Android": {
-      "catalog": "Android/catalog_1.0.6.701.300eb568_zh-Hant.bin",
+      "catalog": "Android/catalog_1.0.6.800.ed4cb6f0_zh-Hant.bin",
       "assets": [
         {
           "internalId": "https://dummy.net/asset/Android/adv-chat-data_assets_adv-chat-data-001_tomorieverything_1ceb474fdf1d0897ed52095688a696dc.bundle",
@@ -581,10 +581,10 @@
           "size": 20894
         },
         {
-          "internalId": "https://dummy.net/asset/Android/adv-downloadlist_assets_all_420e76ac975bc00a93bb724de2305c2b.bundle",
-          "hash": "420e76ac975bc00a93bb724de2305c2b",
-          "crc": 315872148,
-          "size": 227036
+          "internalId": "https://dummy.net/asset/Android/adv-downloadlist_assets_all_7a2df959bbad3140fd71ce860aacaba8.bundle",
+          "hash": "7a2df959bbad3140fd71ce860aacaba8",
+          "crc": 3346618736,
+          "size": 224826
         },
         {
           "internalId": "https://dummy.net/asset/Android/adv-effect_assets_adv-effect-adv_effect_confettieverything_9a08dd881c1d4295831c7c6da9caeecf.bundle",
@@ -18185,10 +18185,10 @@
           "size": 1811
         },
         {
-          "internalId": "https://dummy.net/asset/Android/adv_assets_adv_episode_adv_script_anotherstory_10971_adv_script_anotherstory_10971-text_04f623eeafaea320f494f087a0b17b29.bundle",
-          "hash": "04f623eeafaea320f494f087a0b17b29",
-          "crc": 3734916754,
-          "size": 14571
+          "internalId": "https://dummy.net/asset/Android/adv_assets_adv_episode_adv_script_anotherstory_10971_adv_script_anotherstory_10971-text_0c128c6a1a7af8e251eef208fbbc7c5a.bundle",
+          "hash": "0c128c6a1a7af8e251eef208fbbc7c5a",
+          "crc": 3775579903,
+          "size": 14610
         },
         {
           "internalId": "https://dummy.net/asset/Android/adv_assets_adv_episode_adv_script_anotherstory_10971_adv_script_anotherstory_10971-video_c5b524099614a2b8ce40cfc535c8ccf2.bundle",
@@ -18221,10 +18221,10 @@
           "size": 1859
         },
         {
-          "internalId": "https://dummy.net/asset/Android/adv_assets_adv_episode_adv_script_anotherstory_10972_adv_script_anotherstory_10972-text_117b183b973d2a578f169f59b1369fd8.bundle",
-          "hash": "117b183b973d2a578f169f59b1369fd8",
-          "crc": 900093424,
-          "size": 14814
+          "internalId": "https://dummy.net/asset/Android/adv_assets_adv_episode_adv_script_anotherstory_10972_adv_script_anotherstory_10972-text_ba9cee35703bed399b441aafdebdfb97.bundle",
+          "hash": "ba9cee35703bed399b441aafdebdfb97",
+          "crc": 4108675840,
+          "size": 14861
         },
         {
           "internalId": "https://dummy.net/asset/Android/adv_assets_adv_episode_adv_script_anotherstory_10972_adv_script_anotherstory_10972-video_3e52db3336466a16b697c741d3237908.bundle",
@@ -19301,10 +19301,10 @@
           "size": 2321
         },
         {
-          "internalId": "https://dummy.net/asset/Android/adv_assets_adv_episode_adv_script_eventstory_8_01_adv_script_eventstory_8_01-text_cb407eaa40d4930e0117aab6e6be683b.bundle",
-          "hash": "cb407eaa40d4930e0117aab6e6be683b",
-          "crc": 4290773139,
-          "size": 25653
+          "internalId": "https://dummy.net/asset/Android/adv_assets_adv_episode_adv_script_eventstory_8_01_adv_script_eventstory_8_01-text_373c93a4f42fee14ba71aea7035cda4c.bundle",
+          "hash": "373c93a4f42fee14ba71aea7035cda4c",
+          "crc": 1361623189,
+          "size": 25669
         },
         {
           "internalId": "https://dummy.net/asset/Android/adv_assets_adv_episode_adv_script_eventstory_8_01_adv_script_eventstory_8_01-video_e408ab7c1d729a7544b56679d98002be.bundle",
@@ -19337,10 +19337,10 @@
           "size": 1920
         },
         {
-          "internalId": "https://dummy.net/asset/Android/adv_assets_adv_episode_adv_script_eventstory_8_02_adv_script_eventstory_8_02-text_13829d5819815aef727c074789d01ea7.bundle",
-          "hash": "13829d5819815aef727c074789d01ea7",
-          "crc": 3752370580,
-          "size": 21450
+          "internalId": "https://dummy.net/asset/Android/adv_assets_adv_episode_adv_script_eventstory_8_02_adv_script_eventstory_8_02-text_a6843b4996985de3eae8c1d5c52c681f.bundle",
+          "hash": "a6843b4996985de3eae8c1d5c52c681f",
+          "crc": 134200898,
+          "size": 21514
         },
         {
           "internalId": "https://dummy.net/asset/Android/adv_assets_adv_episode_adv_script_eventstory_8_02_adv_script_eventstory_8_02-video_c2aebeae5cf51f15b0dd3c08fce0e6ad.bundle",
@@ -19373,10 +19373,10 @@
           "size": 2426
         },
         {
-          "internalId": "https://dummy.net/asset/Android/adv_assets_adv_episode_adv_script_eventstory_8_03_adv_script_eventstory_8_03-text_e480fa5fe3035030256959e5a243ddc2.bundle",
-          "hash": "e480fa5fe3035030256959e5a243ddc2",
-          "crc": 629402969,
-          "size": 24217
+          "internalId": "https://dummy.net/asset/Android/adv_assets_adv_episode_adv_script_eventstory_8_03_adv_script_eventstory_8_03-text_b35f5d45ce859cab75a09dd5aae5a798.bundle",
+          "hash": "b35f5d45ce859cab75a09dd5aae5a798",
+          "crc": 751079274,
+          "size": 24237
         },
         {
           "internalId": "https://dummy.net/asset/Android/adv_assets_adv_episode_adv_script_eventstory_8_03_adv_script_eventstory_8_03-video_36dd5912399150f8d7411304d1cf2ee2.bundle",
@@ -19409,10 +19409,10 @@
           "size": 2201
         },
         {
-          "internalId": "https://dummy.net/asset/Android/adv_assets_adv_episode_adv_script_eventstory_8_04_adv_script_eventstory_8_04-text_e227c042803db9b8e2030fef2185c199.bundle",
-          "hash": "e227c042803db9b8e2030fef2185c199",
-          "crc": 1365428486,
-          "size": 24443
+          "internalId": "https://dummy.net/asset/Android/adv_assets_adv_episode_adv_script_eventstory_8_04_adv_script_eventstory_8_04-text_4ffa767a851b0c1d81a03ec87f282ac4.bundle",
+          "hash": "4ffa767a851b0c1d81a03ec87f282ac4",
+          "crc": 3961616510,
+          "size": 24471
         },
         {
           "internalId": "https://dummy.net/asset/Android/adv_assets_adv_episode_adv_script_eventstory_8_04_adv_script_eventstory_8_04-video_d0de2f7aea52fe678e77ea17007ab202.bundle",
@@ -19445,10 +19445,10 @@
           "size": 2442
         },
         {
-          "internalId": "https://dummy.net/asset/Android/adv_assets_adv_episode_adv_script_eventstory_8_05_adv_script_eventstory_8_05-text_b92415abcedec92b20106729c6864718.bundle",
-          "hash": "b92415abcedec92b20106729c6864718",
-          "crc": 3760778463,
-          "size": 25900
+          "internalId": "https://dummy.net/asset/Android/adv_assets_adv_episode_adv_script_eventstory_8_05_adv_script_eventstory_8_05-text_ea21608019d4eff5f9ed656b221fd4bc.bundle",
+          "hash": "ea21608019d4eff5f9ed656b221fd4bc",
+          "crc": 451404226,
+          "size": 25911
         },
         {
           "internalId": "https://dummy.net/asset/Android/adv_assets_adv_episode_adv_script_eventstory_8_05_adv_script_eventstory_8_05-video_b3e4e876b509e089789b7b07e49479d5.bundle",
@@ -19481,10 +19481,10 @@
           "size": 2184
         },
         {
-          "internalId": "https://dummy.net/asset/Android/adv_assets_adv_episode_adv_script_eventstory_8_06_adv_script_eventstory_8_06-text_f8a947e8497037d9a953a7009f9d65ef.bundle",
-          "hash": "f8a947e8497037d9a953a7009f9d65ef",
-          "crc": 81400208,
-          "size": 24807
+          "internalId": "https://dummy.net/asset/Android/adv_assets_adv_episode_adv_script_eventstory_8_06_adv_script_eventstory_8_06-text_3e2b489d7a8f89a92ad9ebabbd05aa53.bundle",
+          "hash": "3e2b489d7a8f89a92ad9ebabbd05aa53",
+          "crc": 4220353079,
+          "size": 24793
         },
         {
           "internalId": "https://dummy.net/asset/Android/adv_assets_adv_episode_adv_script_eventstory_8_06_adv_script_eventstory_8_06-video_8c165e9453ea8f61f29928815300123e.bundle",
@@ -19517,10 +19517,10 @@
           "size": 2071
         },
         {
-          "internalId": "https://dummy.net/asset/Android/adv_assets_adv_episode_adv_script_eventstory_8_07_adv_script_eventstory_8_07-text_8fe4cf26802aa3d1ee56914445af4839.bundle",
-          "hash": "8fe4cf26802aa3d1ee56914445af4839",
-          "crc": 4229480237,
-          "size": 21448
+          "internalId": "https://dummy.net/asset/Android/adv_assets_adv_episode_adv_script_eventstory_8_07_adv_script_eventstory_8_07-text_0327b51ce94d83bb2fc37802e90ec29b.bundle",
+          "hash": "0327b51ce94d83bb2fc37802e90ec29b",
+          "crc": 4188186163,
+          "size": 21500
         },
         {
           "internalId": "https://dummy.net/asset/Android/adv_assets_adv_episode_adv_script_eventstory_8_07_adv_script_eventstory_8_07-video_1d085df52ce5e2b3ad99fa4e0a64b6c6.bundle",
@@ -31757,10 +31757,10 @@
           "size": 1696
         },
         {
-          "internalId": "https://dummy.net/asset/Android/adv_assets_adv_episode_adv_script_hotaru_mahoro_linkstory_2_adv_script_hotaru_mahoro_linkstory_2-text_781fe7ab8acd3686231d5ece6a00c87f.bundle",
-          "hash": "781fe7ab8acd3686231d5ece6a00c87f",
-          "crc": 2048280411,
-          "size": 11343
+          "internalId": "https://dummy.net/asset/Android/adv_assets_adv_episode_adv_script_hotaru_mahoro_linkstory_2_adv_script_hotaru_mahoro_linkstory_2-text_3d48e35431467818ac5ff00f55563c35.bundle",
+          "hash": "3d48e35431467818ac5ff00f55563c35",
+          "crc": 2754900032,
+          "size": 11338
         },
         {
           "internalId": "https://dummy.net/asset/Android/adv_assets_adv_episode_adv_script_hotaru_mahoro_linkstory_2_adv_script_hotaru_mahoro_linkstory_2-video_bddb2b1e24f978d5b138203acf67e7f6.bundle",
@@ -36005,10 +36005,10 @@
           "size": 1812
         },
         {
-          "internalId": "https://dummy.net/asset/Android/adv_assets_adv_episode_adv_script_nagi_houka_linkstory_1_adv_script_nagi_houka_linkstory_1-text_0b18a5a481ab261364aa16a5e93f3429.bundle",
-          "hash": "0b18a5a481ab261364aa16a5e93f3429",
-          "crc": 3508449466,
-          "size": 9646
+          "internalId": "https://dummy.net/asset/Android/adv_assets_adv_episode_adv_script_nagi_houka_linkstory_1_adv_script_nagi_houka_linkstory_1-text_908fcb31750c146b404001cb6b62460e.bundle",
+          "hash": "908fcb31750c146b404001cb6b62460e",
+          "crc": 324176255,
+          "size": 9644
         },
         {
           "internalId": "https://dummy.net/asset/Android/adv_assets_adv_episode_adv_script_nagi_houka_linkstory_1_adv_script_nagi_houka_linkstory_1-video_030596943a419315bdc066ca29f7a6de.bundle",
@@ -36185,10 +36185,10 @@
           "size": 1866
         },
         {
-          "internalId": "https://dummy.net/asset/Android/adv_assets_adv_episode_adv_script_nagi_mahoro_linkstory_3_adv_script_nagi_mahoro_linkstory_3-text_b3e9c3e6e832394def16b4d1e523aea9.bundle",
-          "hash": "b3e9c3e6e832394def16b4d1e523aea9",
-          "crc": 976177462,
-          "size": 10481
+          "internalId": "https://dummy.net/asset/Android/adv_assets_adv_episode_adv_script_nagi_mahoro_linkstory_3_adv_script_nagi_mahoro_linkstory_3-text_14da733ac2249b378a2d110c44a0debf.bundle",
+          "hash": "14da733ac2249b378a2d110c44a0debf",
+          "crc": 3097278476,
+          "size": 10478
         },
         {
           "internalId": "https://dummy.net/asset/Android/adv_assets_adv_episode_adv_script_nagi_mahoro_linkstory_3_adv_script_nagi_mahoro_linkstory_3-video_3b54b50514d74fb539b7322aa761cac8.bundle",
@@ -36437,9 +36437,9 @@
           "size": 1795
         },
         {
-          "internalId": "https://dummy.net/asset/Android/adv_assets_adv_episode_adv_script_natsume_nagi_linkstory_1_adv_script_natsume_nagi_linkstory_1-text_be533d2f1c4559c090ffa2278425c10b.bundle",
-          "hash": "be533d2f1c4559c090ffa2278425c10b",
-          "crc": 4081740808,
+          "internalId": "https://dummy.net/asset/Android/adv_assets_adv_episode_adv_script_natsume_nagi_linkstory_1_adv_script_natsume_nagi_linkstory_1-text_03abaa164590e72de8d568abff271d64.bundle",
+          "hash": "03abaa164590e72de8d568abff271d64",
+          "crc": 2725504068,
           "size": 11063
         },
         {
@@ -36473,10 +36473,10 @@
           "size": 1842
         },
         {
-          "internalId": "https://dummy.net/asset/Android/adv_assets_adv_episode_adv_script_natsume_nagi_linkstory_2_adv_script_natsume_nagi_linkstory_2-text_7779e53cf2140fb1007377d93a34034f.bundle",
-          "hash": "7779e53cf2140fb1007377d93a34034f",
-          "crc": 2910241720,
-          "size": 11667
+          "internalId": "https://dummy.net/asset/Android/adv_assets_adv_episode_adv_script_natsume_nagi_linkstory_2_adv_script_natsume_nagi_linkstory_2-text_f0371567bf5371c18f42c8e8be0d36a9.bundle",
+          "hash": "f0371567bf5371c18f42c8e8be0d36a9",
+          "crc": 4245828914,
+          "size": 11666
         },
         {
           "internalId": "https://dummy.net/asset/Android/adv_assets_adv_episode_adv_script_natsume_nagi_linkstory_2_adv_script_natsume_nagi_linkstory_2-video_c850f55850e56d141702e88b27101171.bundle",
@@ -36509,9 +36509,9 @@
           "size": 1806
         },
         {
-          "internalId": "https://dummy.net/asset/Android/adv_assets_adv_episode_adv_script_natsume_nagi_linkstory_3_adv_script_natsume_nagi_linkstory_3-text_8a815f05b1961390104002f54c88141c.bundle",
-          "hash": "8a815f05b1961390104002f54c88141c",
-          "crc": 1876258743,
+          "internalId": "https://dummy.net/asset/Android/adv_assets_adv_episode_adv_script_natsume_nagi_linkstory_3_adv_script_natsume_nagi_linkstory_3-text_650438edca1c24aa3259cb8b48dcbfce.bundle",
+          "hash": "650438edca1c24aa3259cb8b48dcbfce",
+          "crc": 420489795,
           "size": 10503
         },
         {
@@ -37965,6 +37965,42 @@
           "hash": "397f070ddcad9da871dc6c856f25f37d",
           "crc": 1378723429,
           "size": 6548
+        },
+        {
+          "internalId": "https://dummy.net/asset/Android/adv_assets_adv_episode_adv_script_surprise_11199_adv_script_surprise_11199-episode_b641b36f6adb0aa4ac661f099b9cdef9.bundle",
+          "hash": "b641b36f6adb0aa4ac661f099b9cdef9",
+          "crc": 1486167504,
+          "size": 8877
+        },
+        {
+          "internalId": "https://dummy.net/asset/Android/adv_assets_adv_episode_adv_script_surprise_11199_adv_script_surprise_11199-sound_06704883bcafdc85e7f63bcfc384b11e.bundle",
+          "hash": "06704883bcafdc85e7f63bcfc384b11e",
+          "crc": 2220015282,
+          "size": 2380
+        },
+        {
+          "internalId": "https://dummy.net/asset/Android/adv_assets_adv_episode_adv_script_surprise_11199_adv_script_surprise_11199-soundcuesheet_9dee070d208a38e7f009b090acd4e41b.bundle",
+          "hash": "9dee070d208a38e7f009b090acd4e41b",
+          "crc": 2995859272,
+          "size": 1809
+        },
+        {
+          "internalId": "https://dummy.net/asset/Android/adv_assets_adv_episode_adv_script_surprise_11199_adv_script_surprise_11199-text_9d037913f9c2bac94568fad2ee249436.bundle",
+          "hash": "9d037913f9c2bac94568fad2ee249436",
+          "crc": 767077472,
+          "size": 7929
+        },
+        {
+          "internalId": "https://dummy.net/asset/Android/adv_assets_adv_episode_adv_script_surprise_11199_adv_script_surprise_11199-video_776e296be217517dd2fa4436cafcb15f.bundle",
+          "hash": "776e296be217517dd2fa4436cafcb15f",
+          "crc": 3978655438,
+          "size": 1440
+        },
+        {
+          "internalId": "https://dummy.net/asset/Android/adv_assets_adv_episode_adv_script_surprise_11199_adv_script_surprise_11199_41438795985bca126f05773915c674ee.bundle",
+          "hash": "41438795985bca126f05773915c674ee",
+          "crc": 4158827271,
+          "size": 6403
         },
         {
           "internalId": "https://dummy.net/asset/Android/adv_assets_adv_episode_adv_script_tomori_anon_linkstory_1_adv_script_tomori_anon_linkstory_1-episode_821fa18e4c1d98c1d9102ac88c622d4f.bundle",
@@ -45011,22 +45047,34 @@
           "size": 5699095
         },
         {
-          "internalId": "https://dummy.net/asset/Android/character-live2d_assets_character-live2d-020_adv-adv_live2d_houka_020_school_winter_hs_1steverythinginitialdownload_50dcdefc9be6c2c107cd2fcff36bb120.bundle",
-          "hash": "50dcdefc9be6c2c107cd2fcff36bb120",
-          "crc": 122062099,
-          "size": 6024811
+          "internalId": "https://dummy.net/asset/Android/character-live2d_assets_character-live2d-020_adv-adv_live2d_houka_020_school_winter_hs_1steverythinginitialdownload_320804111b012dc7e3dcf0213f76c4f8.bundle",
+          "hash": "320804111b012dc7e3dcf0213f76c4f8",
+          "crc": 2842569953,
+          "size": 6028407
         },
         {
-          "internalId": "https://dummy.net/asset/Android/character-live2d_assets_character-live2d-020_adv-adv_live2d_houka_020_school_winter_jhs_2ndeverythinginitialdownload_707a58c7ee66e102a3b48d42c39f58ac.bundle",
-          "hash": "707a58c7ee66e102a3b48d42c39f58ac",
-          "crc": 2098885783,
-          "size": 6005941
+          "internalId": "https://dummy.net/asset/Android/character-live2d_assets_character-live2d-020_adv-adv_live2d_houka_020_school_winter_jhs_2ndeverythinginitialdownload_3e41bdf92f89d56b5e8fa437ac06a478.bundle",
+          "hash": "3e41bdf92f89d56b5e8fa437ac06a478",
+          "crc": 3684817030,
+          "size": 6022973
         },
         {
           "internalId": "https://dummy.net/asset/Android/character-live2d_assets_character-live2d-020_adv-adv_live2d_houka_020_school_winter_jhs_3rdeverythinginitialdownload_eac4604f6ed469b44d712843be840609.bundle",
           "hash": "eac4604f6ed469b44d712843be840609",
           "crc": 4133733615,
           "size": 6010764
+        },
+        {
+          "internalId": "https://dummy.net/asset/Android/character-live2d_assets_character-live2d-020_live-live2d_houka_020_birthday2627_01_loweverythinginitialdownload_8a8222961476be2e6b802159b99f43f9.bundle",
+          "hash": "8a8222961476be2e6b802159b99f43f9",
+          "crc": 3586957366,
+          "size": 4638688
+        },
+        {
+          "internalId": "https://dummy.net/asset/Android/character-live2d_assets_character-live2d-020_live-live2d_houka_020_birthday2627_01everythinginitialdownload_28c65d48ec9e007a64e580e4b72e3e93.bundle",
+          "hash": "28c65d48ec9e007a64e580e4b72e3e93",
+          "crc": 3921642944,
+          "size": 8208118
         },
         {
           "internalId": "https://dummy.net/asset/Android/character-live2d_assets_character-live2d-020_live-live2d_houka_020_live_01_loweverythinginitialdownload_8d196c7b38cfed2afa9050170d933eb3.bundle",
@@ -45041,40 +45089,40 @@
           "size": 9133664
         },
         {
-          "internalId": "https://dummy.net/asset/Android/character-live2d_assets_character-live2d-021_adv-adv_live2d_raika_021_arbeit_livehouse_01everythinginitialdownload_d538036400ee0e85fc99ad57deec1f4d.bundle",
-          "hash": "d538036400ee0e85fc99ad57deec1f4d",
-          "crc": 2209130363,
-          "size": 3283637
+          "internalId": "https://dummy.net/asset/Android/character-live2d_assets_character-live2d-021_adv-adv_live2d_raika_021_arbeit_livehouse_01everythinginitialdownload_787c9fb4cfbf4ddd2bd6408d4a387e4c.bundle",
+          "hash": "787c9fb4cfbf4ddd2bd6408d4a387e4c",
+          "crc": 3458202534,
+          "size": 3286171
         },
         {
-          "internalId": "https://dummy.net/asset/Android/character-live2d_assets_character-live2d-021_adv-adv_live2d_raika_021_casual_spring_01everythinginitialdownload_0527fc19add318262807f82d8555d103.bundle",
-          "hash": "0527fc19add318262807f82d8555d103",
-          "crc": 1180308498,
-          "size": 5020736
+          "internalId": "https://dummy.net/asset/Android/character-live2d_assets_character-live2d-021_adv-adv_live2d_raika_021_casual_spring_01everythinginitialdownload_10de4d0590e285fcb31c0815763a2dd5.bundle",
+          "hash": "10de4d0590e285fcb31c0815763a2dd5",
+          "crc": 2770768851,
+          "size": 5023546
         },
         {
-          "internalId": "https://dummy.net/asset/Android/character-live2d_assets_character-live2d-021_adv-adv_live2d_raika_021_child_casual_spring_01_stilleverythinginitialdownload_ae27e548655dc63280d08fd33499c9d0.bundle",
-          "hash": "ae27e548655dc63280d08fd33499c9d0",
-          "crc": 474966954,
-          "size": 4116757
+          "internalId": "https://dummy.net/asset/Android/character-live2d_assets_character-live2d-021_adv-adv_live2d_raika_021_child_casual_spring_01_stilleverythinginitialdownload_b1746d9a64863d06426ee9379e2d641e.bundle",
+          "hash": "b1746d9a64863d06426ee9379e2d641e",
+          "crc": 1717981714,
+          "size": 4116250
         },
         {
-          "internalId": "https://dummy.net/asset/Android/character-live2d_assets_character-live2d-021_adv-adv_live2d_raika_021_live_01everythinginitialdownload_cfa57c804d9498d7169bcee87e1459c0.bundle",
-          "hash": "cfa57c804d9498d7169bcee87e1459c0",
-          "crc": 3859898806,
-          "size": 3288555
+          "internalId": "https://dummy.net/asset/Android/character-live2d_assets_character-live2d-021_adv-adv_live2d_raika_021_live_01everythinginitialdownload_a095a94d9a3700d7914704213c391d36.bundle",
+          "hash": "a095a94d9a3700d7914704213c391d36",
+          "crc": 466502618,
+          "size": 3291992
         },
         {
-          "internalId": "https://dummy.net/asset/Android/character-live2d_assets_character-live2d-021_adv-adv_live2d_raika_021_roomwear_01everythinginitialdownload_3f3575fe40ac51ccacc335c1e1a67a15.bundle",
-          "hash": "3f3575fe40ac51ccacc335c1e1a67a15",
-          "crc": 212080485,
-          "size": 19874311
+          "internalId": "https://dummy.net/asset/Android/character-live2d_assets_character-live2d-021_adv-adv_live2d_raika_021_roomwear_01everythinginitialdownload_ab28d6ca69d2a4caabc7db555e82ff54.bundle",
+          "hash": "ab28d6ca69d2a4caabc7db555e82ff54",
+          "crc": 690869142,
+          "size": 19877013
         },
         {
-          "internalId": "https://dummy.net/asset/Android/character-live2d_assets_character-live2d-021_adv-adv_live2d_raika_021_school_winter_hs_2ndeverythinginitialdownload_7a20cb43395c9d9530c3cf3c3b04b32b.bundle",
-          "hash": "7a20cb43395c9d9530c3cf3c3b04b32b",
-          "crc": 3320508126,
-          "size": 4936741
+          "internalId": "https://dummy.net/asset/Android/character-live2d_assets_character-live2d-021_adv-adv_live2d_raika_021_school_winter_hs_2ndeverythinginitialdownload_f3b8a6df97bce45b5ce08efa22abaad1.bundle",
+          "hash": "f3b8a6df97bce45b5ce08efa22abaad1",
+          "crc": 258558898,
+          "size": 4939652
         },
         {
           "internalId": "https://dummy.net/asset/Android/character-live2d_assets_character-live2d-021_live-live2d_raika_021_live_01_loweverythinginitialdownload_d6a6e6aaad8394aeb9ca333baf4f4e7b.bundle",
@@ -45299,10 +45347,10 @@
           "size": 784181
         },
         {
-          "internalId": "https://dummy.net/asset/Android/character-live2d_assets_character-live2d-sub_itsuki-adv_live2d_sub_itsuki_casual_spring_01everythinginitialdownload_55090b8a76c9a8f6375631ad0c94290a.bundle",
-          "hash": "55090b8a76c9a8f6375631ad0c94290a",
-          "crc": 2611010337,
-          "size": 5147318
+          "internalId": "https://dummy.net/asset/Android/character-live2d_assets_character-live2d-sub_itsuki-adv_live2d_sub_itsuki_casual_spring_01everythinginitialdownload_ebbc0dda5e9a1c7e926dbeaebafb01f5.bundle",
+          "hash": "ebbc0dda5e9a1c7e926dbeaebafb01f5",
+          "crc": 2009051191,
+          "size": 5147306
         },
         {
           "internalId": "https://dummy.net/asset/Android/character-live2d_assets_character-live2d-sub_itsuki-adv_live2d_sub_itsuki_child_casual_spring_01everythinginitialdownload_dc8fdfa54b9ccad5d4d278812c93fc1a.bundle",
@@ -45615,6 +45663,12 @@
           "hash": "0833d49018295f332530e3c58c355fed",
           "crc": 1363086881,
           "size": 21472
+        },
+        {
+          "internalId": "https://dummy.net/asset/Android/character_assets_character_costume_20_icon_costume_berthday_2726_40795ae3d818ffa4919b7beda281c700.bundle",
+          "hash": "40795ae3d818ffa4919b7beda281c700",
+          "crc": 96767357,
+          "size": 21793
         },
         {
           "internalId": "https://dummy.net/asset/Android/character_assets_character_costume_20_icon_costume_default_01_209c3253fba9913af5f2df86b7e3bcc6.bundle",
@@ -47981,6 +48035,12 @@
           "size": 2418688
         },
         {
+          "internalId": "https://dummy.net/asset/Android/cri_assets_cri/sound/adv_voice_surprise_11199_eb33ba0a4ec1f33f351e37075fb089ee",
+          "hash": "eb33ba0a4ec1f33f351e37075fb089ee",
+          "crc": 0,
+          "size": 1958144
+        },
+        {
           "internalId": "https://dummy.net/asset/Android/cri_assets_cri/sound/adv_voice_tutorial_10609_c61dad098b8a28198a5b6ee48d2406e2",
           "hash": "c61dad098b8a28198a5b6ee48d2406e2",
           "crc": 0,
@@ -48981,6 +49041,12 @@
           "hash": "b568dddd7084139921196f6b3677b94e",
           "crc": 0,
           "size": 47360
+        },
+        {
+          "internalId": "https://dummy.net/asset/Android/cri_assets_cri/sound/sound_se_adv_cutlery_d00fed9e8ce3310d61edf8be9c1f8ebc",
+          "hash": "d00fed9e8ce3310d61edf8be9c1f8ebc",
+          "crc": 0,
+          "size": 35072
         },
         {
           "internalId": "https://dummy.net/asset/Android/cri_assets_cri/sound/sound_se_adv_delusion_comedy_d76636d30ddea2216ddc4d2f1f9bcb45",
@@ -50765,6 +50831,12 @@
           "size": 45664
         },
         {
+          "internalId": "https://dummy.net/asset/Android/cri_assets_cri/sound/voicegacha_20_00071_581ffea2f48d7a34634bd20bc6a8968a",
+          "hash": "581ffea2f48d7a34634bd20bc6a8968a",
+          "crc": 0,
+          "size": 77024
+        },
+        {
           "internalId": "https://dummy.net/asset/Android/cri_assets_cri/sound/voicegacha_21_00069_2b8424800b226b904e5c26bdc095ddbb",
           "hash": "2b8424800b226b904e5c26bdc095ddbb",
           "crc": 0,
@@ -51027,6 +51099,12 @@
           "hash": "39786561711cabba8fb70e52921c22e9",
           "crc": 0,
           "size": 5134048
+        },
+        {
+          "internalId": "https://dummy.net/asset/Android/cri_assets_cri/sound/y_shinzinrui_short_70c8db991e641d0433994e2d9e2f6f84",
+          "hash": "70c8db991e641d0433994e2d9e2f6f84",
+          "crc": 0,
+          "size": 1180128
         },
         {
           "internalId": "https://dummy.net/asset/Android/cri_assets_cri/video/adv/adv_movie_arale_house_yumemita_01/adv_movie_arale_house_yumemita_01_6fe89b51c3fe6a00ba04d9eb2bbfa5a1",
@@ -53951,6 +54029,12 @@
           "size": 2258
         },
         {
+          "internalId": "https://dummy.net/asset/Android/cri_assets_cri_sound_adv_voice_surprise_11199_cfaa3503a3da938b20e4856f53dd735b.bundle",
+          "hash": "cfaa3503a3da938b20e4856f53dd735b",
+          "crc": 3901807730,
+          "size": 2258
+        },
+        {
           "internalId": "https://dummy.net/asset/Android/cri_assets_cri_sound_adv_voice_tutorial_10609_ebfc1e326cce46c4137bd175ff14b949.bundle",
           "hash": "ebfc1e326cce46c4137bd175ff14b949",
           "crc": 2974227889,
@@ -55761,6 +55845,12 @@
           "hash": "38639641a4e0a4c716571ed63190cece",
           "crc": 2207474835,
           "size": 2234
+        },
+        {
+          "internalId": "https://dummy.net/asset/Android/cri_assets_cri_sound_sound_se_adv_cutlery_032f844d0a3904a3262d1f7c061f9056.bundle",
+          "hash": "032f844d0a3904a3262d1f7c061f9056",
+          "crc": 2625210315,
+          "size": 2229
         },
         {
           "internalId": "https://dummy.net/asset/Android/cri_assets_cri_sound_sound_se_adv_delusion_comedy_64ecc56185b7228bc0252d0b619c94ee.bundle",
@@ -57821,6 +57911,12 @@
           "size": 2237
         },
         {
+          "internalId": "https://dummy.net/asset/Android/cri_assets_cri_sound_voicegacha_20_00071_35ecdeb4a4df9e677c1a4d57e70cd222.bundle",
+          "hash": "35ecdeb4a4df9e677c1a4d57e70cd222",
+          "crc": 3237585992,
+          "size": 2237
+        },
+        {
           "internalId": "https://dummy.net/asset/Android/cri_assets_cri_sound_voicegacha_21_00069_e7bc83ede4b68d83251940f43bcfb3fc.bundle",
           "hash": "e7bc83ede4b68d83251940f43bcfb3fc",
           "crc": 2071427949,
@@ -58473,6 +58569,18 @@
           "hash": "b69761012b015f543bb3f4efde5a4729",
           "crc": 1958064529,
           "size": 835666
+        },
+        {
+          "internalId": "https://dummy.net/asset/Android/cri_assets_cri_sound_y_shinzinrui_e408832852eff56feb5c3d3154c5baba.bundle",
+          "hash": "e408832852eff56feb5c3d3154c5baba",
+          "crc": 245375762,
+          "size": 3740650
+        },
+        {
+          "internalId": "https://dummy.net/asset/Android/cri_assets_cri_sound_y_shinzinrui_short_9d5fbb21be43d4b7f0e2c9aed8b71eab.bundle",
+          "hash": "9d5fbb21be43d4b7f0e2c9aed8b71eab",
+          "crc": 2834146638,
+          "size": 2235
         },
         {
           "internalId": "https://dummy.net/asset/Android/cri_assets_cri_sound_y_shou_a9e8fd661457f3d1dc58bab7167698bb.bundle",
@@ -59435,10 +59543,10 @@
           "size": 2526
         },
         {
-          "internalId": "https://dummy.net/asset/Android/effect-homelanding_assets_effect-homelanding-birthdayeverythinginitialdownload_85c97aa62af0bbc255882e1e1c93389b.bundle",
-          "hash": "85c97aa62af0bbc255882e1e1c93389b",
-          "crc": 203673148,
-          "size": 361022
+          "internalId": "https://dummy.net/asset/Android/effect-homelanding_assets_effect-homelanding-birthdayeverythinginitialdownload_b50502020e3c9c02f3024529085ec49c.bundle",
+          "hash": "b50502020e3c9c02f3024529085ec49c",
+          "crc": 3686344069,
+          "size": 372249
         },
         {
           "internalId": "https://dummy.net/asset/Android/effect_assets_effect_live_gekisou_ef_gekisou_mask_f33e1d7d571fdbe5f97a480b9f5a601b.bundle",
@@ -61271,6 +61379,12 @@
           "size": 35204
         },
         {
+          "internalId": "https://dummy.net/asset/Android/exchange_assets_exchange_banner_banner_26_553ce5b0cc039ccfb0a0a6301abb5b18.bundle",
+          "hash": "553ce5b0cc039ccfb0a0a6301abb5b18",
+          "crc": 2287293419,
+          "size": 37054
+        },
+        {
           "internalId": "https://dummy.net/asset/Android/exchange_assets_exchange_banner_banner_5_83a023b3ff5c737d453d800485e54a3c.bundle",
           "hash": "83a023b3ff5c737d453d800485e54a3c",
           "crc": 3502307173,
@@ -61529,6 +61643,12 @@
           "size": 1586656
         },
         {
+          "internalId": "https://dummy.net/asset/Android/gacha_assets_gacha/video/00015/gacha_top_00015_01_b348da2d1b3e55857c59ec0ea1e7befe",
+          "hash": "b348da2d1b3e55857c59ec0ea1e7befe",
+          "crc": 0,
+          "size": 4527744
+        },
+        {
           "internalId": "https://dummy.net/asset/Android/gacha_assets_gacha_appealimage_guarantee_sr_2d60f15a14ba88b0870301a53ee17d42.bundle",
           "hash": "2d60f15a14ba88b0870301a53ee17d42",
           "crc": 148879316,
@@ -61629,6 +61749,12 @@
           "hash": "e23ecfb7744200397868f38beb4f3ac9",
           "crc": 3360677590,
           "size": 37562
+        },
+        {
+          "internalId": "https://dummy.net/asset/Android/gacha_assets_gacha_banner_gacha_banner_00015_8d543724e5e1c86fa28f83ec149bb9b3.bundle",
+          "hash": "8d543724e5e1c86fa28f83ec149bb9b3",
+          "crc": 2021056725,
+          "size": 37408
         },
         {
           "internalId": "https://dummy.net/asset/Android/gacha_assets_gacha_bg_gacha_bg_00001_d8d75f1415f16c40519ac1f7697b886f.bundle",
@@ -61799,6 +61925,12 @@
           "size": 43504
         },
         {
+          "internalId": "https://dummy.net/asset/Android/gacha_assets_gacha_logo_gacha_logo_00015_22ce9b57cd3fbcb6220f39f66b78ce59.bundle",
+          "hash": "22ce9b57cd3fbcb6220f39f66b78ce59",
+          "crc": 68666982,
+          "size": 31443
+        },
+        {
           "internalId": "https://dummy.net/asset/Android/gacha_assets_gacha_logo_gacha_logo_10_2748fb9dadbd883b01880832d2102bfa.bundle",
           "hash": "2748fb9dadbd883b01880832d2102bfa",
           "crc": 2026561095,
@@ -61827,6 +61959,12 @@
           "hash": "cf0d74c22be9839e571f1447a20a1d34",
           "crc": 2269987480,
           "size": 43509
+        },
+        {
+          "internalId": "https://dummy.net/asset/Android/gacha_assets_gacha_logo_gacha_logo_15_7e22aee9497958739447d2d3a9049346.bundle",
+          "hash": "7e22aee9497958739447d2d3a9049346",
+          "crc": 3504114999,
+          "size": 31439
         },
         {
           "internalId": "https://dummy.net/asset/Android/gacha_assets_gacha_logo_gacha_logo_1_38a8aa80198c7080b66a358ca801bd02.bundle",
@@ -62045,6 +62183,12 @@
           "size": 2562
         },
         {
+          "internalId": "https://dummy.net/asset/Android/gacha_assets_gacha_video_00015_gacha_top_00015_01_bc2a1d522c74e62cef571b114ad0e838.bundle",
+          "hash": "bc2a1d522c74e62cef571b114ad0e838",
+          "crc": 392447896,
+          "size": 2527
+        },
+        {
           "internalId": "https://dummy.net/asset/Android/gachaanimation_assets_gachaanimation/temp/temp-transition-movie_6e5cce3170f6aaab6a0954973e43298e",
           "hash": "6e5cce3170f6aaab6a0954973e43298e",
           "crc": 0,
@@ -62255,10 +62399,10 @@
           "size": 168800
         },
         {
-          "internalId": "https://dummy.net/asset/Android/gachaanimation_assets_gachaanimation_1_intro__prefab_gachaphone_00f1f55d5334d127bdedf6fb235487ae.bundle",
-          "hash": "00f1f55d5334d127bdedf6fb235487ae",
-          "crc": 3775657157,
-          "size": 27983
+          "internalId": "https://dummy.net/asset/Android/gachaanimation_assets_gachaanimation_1_intro__prefab_gachaphone_4175b7d01de7edd7a2264057d5b2f263.bundle",
+          "hash": "4175b7d01de7edd7a2264057d5b2f263",
+          "crc": 602435534,
+          "size": 27984
         },
         {
           "internalId": "https://dummy.net/asset/Android/gachaanimation_assets_gachaanimation_1_intro__prefab_gachastage_b9c90fa39355ce379e592a8821c486ee.bundle",
@@ -62837,63 +62981,63 @@
           "size": 6423
         },
         {
-          "internalId": "https://dummy.net/asset/Android/gachaanimation_assets_gachaanimation_2_screen_prefab_gachaanimation_member_bd_a274405af11df2d3599ec4f3de6c83cf.bundle",
-          "hash": "a274405af11df2d3599ec4f3de6c83cf",
-          "crc": 3785680150,
-          "size": 61182
+          "internalId": "https://dummy.net/asset/Android/gachaanimation_assets_gachaanimation_2_screen_prefab_gachaanimation_member_bd_892f3905e0b3b7bb9f916645bfa12975.bundle",
+          "hash": "892f3905e0b3b7bb9f916645bfa12975",
+          "crc": 3595139336,
+          "size": 61176
         },
         {
-          "internalId": "https://dummy.net/asset/Android/gachaanimation_assets_gachaanimation_2_screen_prefab_gachaanimation_member_r_6facd85da86b202458e56c55027c042f.bundle",
-          "hash": "6facd85da86b202458e56c55027c042f",
-          "crc": 4048969170,
+          "internalId": "https://dummy.net/asset/Android/gachaanimation_assets_gachaanimation_2_screen_prefab_gachaanimation_member_r_0ddbb8e843f773c6d2395be5e04c9783.bundle",
+          "hash": "0ddbb8e843f773c6d2395be5e04c9783",
+          "crc": 2630431703,
           "size": 39249
         },
         {
-          "internalId": "https://dummy.net/asset/Android/gachaanimation_assets_gachaanimation_2_screen_prefab_gachaanimation_member_rtossr_7a3ae6f5f8722d135b46784db188f2f8.bundle",
-          "hash": "7a3ae6f5f8722d135b46784db188f2f8",
-          "crc": 3143370458,
-          "size": 110834
+          "internalId": "https://dummy.net/asset/Android/gachaanimation_assets_gachaanimation_2_screen_prefab_gachaanimation_member_rtossr_d29f9ad05abb5d6ad404923da5c33811.bundle",
+          "hash": "d29f9ad05abb5d6ad404923da5c33811",
+          "crc": 1912054321,
+          "size": 110839
         },
         {
-          "internalId": "https://dummy.net/asset/Android/gachaanimation_assets_gachaanimation_2_screen_prefab_gachaanimation_member_sr_2407c172a621d28a8acc73f54232aac6.bundle",
-          "hash": "2407c172a621d28a8acc73f54232aac6",
-          "crc": 687932587,
+          "internalId": "https://dummy.net/asset/Android/gachaanimation_assets_gachaanimation_2_screen_prefab_gachaanimation_member_sr_c225d119bf21edd55b0a6f6a1025efb7.bundle",
+          "hash": "c225d119bf21edd55b0a6f6a1025efb7",
+          "crc": 2709884624,
           "size": 40085
         },
         {
-          "internalId": "https://dummy.net/asset/Android/gachaanimation_assets_gachaanimation_2_screen_prefab_gachaanimation_member_ssr_fa39e59b4e335f5699656efd856adf6d.bundle",
-          "hash": "fa39e59b4e335f5699656efd856adf6d",
-          "crc": 3809821871,
-          "size": 97413
+          "internalId": "https://dummy.net/asset/Android/gachaanimation_assets_gachaanimation_2_screen_prefab_gachaanimation_member_ssr_758bfcc969f619839c924c75de5c514d.bundle",
+          "hash": "758bfcc969f619839c924c75de5c514d",
+          "crc": 3988053598,
+          "size": 97416
         },
         {
-          "internalId": "https://dummy.net/asset/Android/gachaanimation_assets_gachaanimation_2_screen_prefab_gachaanimation_member_ssr_root_651886bfced6388b49a1c3d0647a854e.bundle",
-          "hash": "651886bfced6388b49a1c3d0647a854e",
-          "crc": 2550632130,
-          "size": 98370
+          "internalId": "https://dummy.net/asset/Android/gachaanimation_assets_gachaanimation_2_screen_prefab_gachaanimation_member_ssr_root_21810cb6e7ea828d385edfcc43bfcf62.bundle",
+          "hash": "21810cb6e7ea828d385edfcc43bfcf62",
+          "crc": 1425433640,
+          "size": 98386
         },
         {
-          "internalId": "https://dummy.net/asset/Android/gachaanimation_assets_gachaanimation_2_screen_prefab_gachaanimation_support_r_0db5338228e4e7f27faf9c42414e8441.bundle",
-          "hash": "0db5338228e4e7f27faf9c42414e8441",
-          "crc": 1664468422,
+          "internalId": "https://dummy.net/asset/Android/gachaanimation_assets_gachaanimation_2_screen_prefab_gachaanimation_support_r_624f614eb7ef4929706688b2c2a8ab94.bundle",
+          "hash": "624f614eb7ef4929706688b2c2a8ab94",
+          "crc": 1436277053,
           "size": 39048
         },
         {
-          "internalId": "https://dummy.net/asset/Android/gachaanimation_assets_gachaanimation_2_screen_prefab_gachaanimation_support_sr_e81a88e381f4f4858bdf53fe17836995.bundle",
-          "hash": "e81a88e381f4f4858bdf53fe17836995",
-          "crc": 1629617844,
+          "internalId": "https://dummy.net/asset/Android/gachaanimation_assets_gachaanimation_2_screen_prefab_gachaanimation_support_sr_1ded3dbaee5a6e78daa7ff615517faef.bundle",
+          "hash": "1ded3dbaee5a6e78daa7ff615517faef",
+          "crc": 4028961572,
           "size": 38753
         },
         {
-          "internalId": "https://dummy.net/asset/Android/gachaanimation_assets_gachaanimation_2_screen_prefab_gachaanimation_support_ssr_2bbbd9fd8f5fa9459e5885fb54b9ab0d.bundle",
-          "hash": "2bbbd9fd8f5fa9459e5885fb54b9ab0d",
-          "crc": 1591552079,
-          "size": 60503
+          "internalId": "https://dummy.net/asset/Android/gachaanimation_assets_gachaanimation_2_screen_prefab_gachaanimation_support_ssr_50df296fadad9abe14acb530e0f75cad.bundle",
+          "hash": "50df296fadad9abe14acb530e0f75cad",
+          "crc": 1350217288,
+          "size": 60491
         },
         {
-          "internalId": "https://dummy.net/asset/Android/gachaanimation_assets_gachaanimation_2_screen_prefab_gachaanimationuicanvas_f8c477d9e0a479ea6ea08b5f81245258.bundle",
-          "hash": "f8c477d9e0a479ea6ea08b5f81245258",
-          "crc": 2793766864,
+          "internalId": "https://dummy.net/asset/Android/gachaanimation_assets_gachaanimation_2_screen_prefab_gachaanimationuicanvas_9658676df1247906cb6ccbbd6ff738c8.bundle",
+          "hash": "9658676df1247906cb6ccbbd6ff738c8",
+          "crc": 1918475564,
           "size": 9685
         },
         {
@@ -62951,16 +63095,16 @@
           "size": 8251
         },
         {
-          "internalId": "https://dummy.net/asset/Android/gachaanimation_assets_gachaanimation_2_screen_prefab_gachavoiceanimation_78a26940a5e5a15288534d563f869aa5.bundle",
-          "hash": "78a26940a5e5a15288534d563f869aa5",
-          "crc": 3020608624,
+          "internalId": "https://dummy.net/asset/Android/gachaanimation_assets_gachaanimation_2_screen_prefab_gachavoiceanimation_34f7ce25447b203a3a912f8b25b5b422.bundle",
+          "hash": "34f7ce25447b203a3a912f8b25b5b422",
+          "crc": 1646066984,
           "size": 36257
         },
         {
-          "internalId": "https://dummy.net/asset/Android/gachaanimation_assets_gachaanimation_2_screen_prefab_gachavoicedirector_9c8928f15875e5ddc9bdfd3bc7a95344.bundle",
-          "hash": "9c8928f15875e5ddc9bdfd3bc7a95344",
-          "crc": 795337902,
-          "size": 35733
+          "internalId": "https://dummy.net/asset/Android/gachaanimation_assets_gachaanimation_2_screen_prefab_gachavoicedirector_76c89c48dda3d54bde1f49056d415c80.bundle",
+          "hash": "76c89c48dda3d54bde1f49056d415c80",
+          "crc": 1345471398,
+          "size": 35732
         },
         {
           "internalId": "https://dummy.net/asset/Android/gachaanimation_assets_gachaanimation_2_screen_prefab_lensflare_400e16a9251e2b60fe7d778d8f9066d9.bundle",
@@ -64415,6 +64559,12 @@
           "size": 1064206
         },
         {
+          "internalId": "https://dummy.net/asset/Android/gachaanimation_assets_gachaanimation_banner_tex_gacha_banner_15_1fcf2db5ab7f6056c4b0607d7129e25d.bundle",
+          "hash": "1fcf2db5ab7f6056c4b0607d7129e25d",
+          "crc": 2790787009,
+          "size": 1067079
+        },
+        {
           "internalId": "https://dummy.net/asset/Android/gachaanimation_assets_gachaanimation_banner_tex_gacha_banner_1_d88698b3181f02affde633de9affae77.bundle",
           "hash": "d88698b3181f02affde633de9affae77",
           "crc": 314233266,
@@ -64781,10 +64931,10 @@
           "size": 1766
         },
         {
-          "internalId": "https://dummy.net/asset/Android/gachaanimation_assets_gachaanimation_scene_camerasandui_204bed733e9936c33f7dc08b4c0b8e9a.bundle",
-          "hash": "204bed733e9936c33f7dc08b4c0b8e9a",
-          "crc": 460284905,
-          "size": 34749
+          "internalId": "https://dummy.net/asset/Android/gachaanimation_assets_gachaanimation_scene_camerasandui_063e14f1d55d0d21f8bfe20dd83cffdf.bundle",
+          "hash": "063e14f1d55d0d21f8bfe20dd83cffdf",
+          "crc": 3305076842,
+          "size": 34743
         },
         {
           "internalId": "https://dummy.net/asset/Android/gachaanimation_assets_gachaanimation_scene_gachaanimation_branchvolume(1)profile_b7733f01983e22ecf8b224aa69b56c19.bundle",
@@ -64853,9 +65003,9 @@
           "size": 1784
         },
         {
-          "internalId": "https://dummy.net/asset/Android/gachaanimation_assets_gachaanimation_temp_productnamearea_47affee320133dadf58f81188ce7f042.bundle",
-          "hash": "47affee320133dadf58f81188ce7f042",
-          "crc": 1728566443,
+          "internalId": "https://dummy.net/asset/Android/gachaanimation_assets_gachaanimation_temp_productnamearea_81d85ac5d88d381f6108b518ce70f564.bundle",
+          "hash": "81d85ac5d88d381f6108b518ce70f564",
+          "crc": 1312395331,
           "size": 6919
         },
         {
@@ -64907,10 +65057,10 @@
           "size": 4173
         },
         {
-          "internalId": "https://dummy.net/asset/Android/gachaanimation_scenes_gachaanimation_scene_gachaanimation_03d6a57a4ac849cbef1fe5534c22a42e.bundle",
-          "hash": "03d6a57a4ac849cbef1fe5534c22a42e",
-          "crc": 971638425,
-          "size": 123841
+          "internalId": "https://dummy.net/asset/Android/gachaanimation_scenes_gachaanimation_scene_gachaanimation_555f48ba7a8957e1d6ee478ebed1d321.bundle",
+          "hash": "555f48ba7a8957e1d6ee478ebed1d321",
+          "crc": 904202876,
+          "size": 123842
         },
         {
           "internalId": "https://dummy.net/asset/Android/image_assets_image_background_battleliveresultbackground_e70a0cbc0b414ff2b5555a25f9da8e18.bundle",
@@ -65187,6 +65337,12 @@
           "hash": "3596af686065ceecabc1c19fba211479",
           "crc": 702584723,
           "size": 72148
+        },
+        {
+          "internalId": "https://dummy.net/asset/Android/image_assets_image_campaign_birthday_pick_houka_1d91ae864ef8c7b35c32bfcf124f9a77.bundle",
+          "hash": "1d91ae864ef8c7b35c32bfcf124f9a77",
+          "crc": 3634334123,
+          "size": 8380
         },
         {
           "internalId": "https://dummy.net/asset/Android/image_assets_image_campaign_birthday_pick_miku_15cd017365a3e7858aa6ee8a78cb204b.bundle",
@@ -65919,6 +66075,12 @@
           "hash": "b172623e9611a78bf501e53899819106",
           "crc": 4233226961,
           "size": 27656
+        },
+        {
+          "internalId": "https://dummy.net/asset/Android/image_assets_image_degree_bd_degree_bd_2627_20_b0f238c50aa4249518df583827b8def4.bundle",
+          "hash": "b0f238c50aa4249518df583827b8def4",
+          "crc": 3610898685,
+          "size": 77095
         },
         {
           "internalId": "https://dummy.net/asset/Android/image_assets_image_degree_bd_degree_bd_2627_22_f2ea7894d48b7b66ad9eaf5b2375803a.bundle",
@@ -66677,10 +66839,10 @@
           "size": 41430
         },
         {
-          "internalId": "https://dummy.net/asset/Android/image_assets_image_degree_event_01_00003_degree_event_01_00003_03180e3c5ce1e631802367a7748f603a.bundle",
-          "hash": "03180e3c5ce1e631802367a7748f603a",
-          "crc": 2006337205,
-          "size": 252446
+          "internalId": "https://dummy.net/asset/Android/image_assets_image_degree_event_01_00003_degree_event_01_00003_b29a1aa34068ee229f67bf02308b38da.bundle",
+          "hash": "b29a1aa34068ee229f67bf02308b38da",
+          "crc": 2853908496,
+          "size": 252371
         },
         {
           "internalId": "https://dummy.net/asset/Android/image_assets_image_degree_event_01_00003_degree_event_100081_01_7949ba55b7fe344c64aaefdf1929031e.bundle",
@@ -66915,6 +67077,18 @@
           "hash": "ed48124c13d4b29741b6f7686ac5e8e0",
           "crc": 299516165,
           "size": 134880
+        },
+        {
+          "internalId": "https://dummy.net/asset/Android/image_assets_image_degree_media_mujica_degree_7th_live_02_01_ea08a38310f0d77c8e83482545c1a4bd.bundle",
+          "hash": "ea08a38310f0d77c8e83482545c1a4bd",
+          "crc": 2982235220,
+          "size": 31689
+        },
+        {
+          "internalId": "https://dummy.net/asset/Android/image_assets_image_degree_media_mujica_degree_7th_live_02_02_f793986a8485b82023361332b1c6b927.bundle",
+          "hash": "f793986a8485b82023361332b1c6b927",
+          "crc": 1195237517,
+          "size": 95569
         },
         {
           "internalId": "https://dummy.net/asset/Android/image_assets_image_degree_media_mujica_degree_movie_01_44f07729a44b277a2ac03720cba96da2.bundle",
@@ -67269,6 +67443,12 @@
           "hash": "fd520296e3893a2c08cf64070859403d",
           "crc": 3980481408,
           "size": 301266
+        },
+        {
+          "internalId": "https://dummy.net/asset/Android/image_assets_image_homelanding_promo_homelanding_promo_1_19fdf00602a7ee76cf7eaed5ab2f06c0.bundle",
+          "hash": "19fdf00602a7ee76cf7eaed5ab2f06c0",
+          "crc": 2412645228,
+          "size": 342010
         },
         {
           "internalId": "https://dummy.net/asset/Android/image_assets_image_invitation_banner01_01_b9c1545ef2d1ce55bb161af8049e01b3.bundle",
@@ -67713,6 +67893,12 @@
           "hash": "035e104adc142b608d012d1c19a0f05e",
           "crc": 2956688908,
           "size": 111687
+        },
+        {
+          "internalId": "https://dummy.net/asset/Android/image_assets_image_jacket_jkt_003_100102_a3f308a255c01e6148fccaef15e2e701.bundle",
+          "hash": "a3f308a255c01e6148fccaef15e2e701",
+          "crc": 1889306283,
+          "size": 52149
         },
         {
           "internalId": "https://dummy.net/asset/Android/image_assets_image_jacket_jkt_003_100109_688fd3d6166113da7af6409f1eb0fd2c.bundle",
@@ -68259,6 +68445,12 @@
           "hash": "2fa11ae4006cf615b021e7c1c5278e1f",
           "crc": 3208199496,
           "size": 11740
+        },
+        {
+          "internalId": "https://dummy.net/asset/Android/image_assets_image_jacket_small_jkt_003_100102_5aa8403fd9851fe4aff730cf8aa8bb93.bundle",
+          "hash": "5aa8403fd9851fe4aff730cf8aa8bb93",
+          "crc": 95680310,
+          "size": 10266
         },
         {
           "internalId": "https://dummy.net/asset/Android/image_assets_image_jacket_small_jkt_003_100109_512ca52dd1cbc4eabbe6815da7808d0d.bundle",
@@ -68855,10 +69047,10 @@
           "size": 21367
         },
         {
-          "internalId": "https://dummy.net/asset/Android/item_assets_all_d5b10a1e30a68707d1d806702da1ebe8.bundle",
-          "hash": "d5b10a1e30a68707d1d806702da1ebe8",
-          "crc": 3264044794,
-          "size": 925016
+          "internalId": "https://dummy.net/asset/Android/item_assets_all_bf2a33d1cbed65e1611e7b1feaf38509.bundle",
+          "hash": "bf2a33d1cbed65e1611e7b1feaf38509",
+          "crc": 936578467,
+          "size": 938639
         },
         {
           "internalId": "https://dummy.net/asset/Android/live-note_assets_everythinglive-note-skin001_cf988ee28fb3494a33f8eafb6466280a.bundle",
@@ -70827,6 +71019,30 @@
           "hash": "7cba607b268fec26b17323e7aa05734a",
           "crc": 2098133980,
           "size": 4784
+        },
+        {
+          "internalId": "https://dummy.net/asset/Android/live_assets_live_musicscore_0102_0102_00_22da5711ef1ba7bbe055d554723b456c.bundle",
+          "hash": "22da5711ef1ba7bbe055d554723b456c",
+          "crc": 1104415974,
+          "size": 2219
+        },
+        {
+          "internalId": "https://dummy.net/asset/Android/live_assets_live_musicscore_0102_0102_01_25d3771bc24b1826faced7951a9308e9.bundle",
+          "hash": "25d3771bc24b1826faced7951a9308e9",
+          "crc": 3360538899,
+          "size": 2870
+        },
+        {
+          "internalId": "https://dummy.net/asset/Android/live_assets_live_musicscore_0102_0102_02_f29953b0a7c33e70305e836d0c577576.bundle",
+          "hash": "f29953b0a7c33e70305e836d0c577576",
+          "crc": 2672275329,
+          "size": 4134
+        },
+        {
+          "internalId": "https://dummy.net/asset/Android/live_assets_live_musicscore_0102_0102_03_e116d1f046baf76561c09ca4a202e0d2.bundle",
+          "hash": "e116d1f046baf76561c09ca4a202e0d2",
+          "crc": 2454098409,
+          "size": 7089
         },
         {
           "internalId": "https://dummy.net/asset/Android/live_assets_live_musicscore_0104_0104_00_e5db2f4f4e992f214c52e2aa15a016bb.bundle",
@@ -72899,9 +73115,9 @@
           "size": 819014
         },
         {
-          "internalId": "https://dummy.net/asset/Android/loginbonus_assets_loginbonus_sprite_loginbonus_00004_71a2f7fdf473a74329439de4ed7d324a.bundle",
-          "hash": "71a2f7fdf473a74329439de4ed7d324a",
-          "crc": 575112708,
+          "internalId": "https://dummy.net/asset/Android/loginbonus_assets_loginbonus_sprite_loginbonus_00004_d77a12f914d13fb92c2135fb0b7fc466.bundle",
+          "hash": "d77a12f914d13fb92c2135fb0b7fc466",
+          "crc": 2474151699,
           "size": 515591
         },
         {
@@ -72932,6 +73148,18 @@
           "internalId": "https://dummy.net/asset/Android/loginbonus_assets_loginbonus_sprite_loginbonus_00006_sprite_meta_data_dbde6153e416a204a765cabc30cd37ea.bundle",
           "hash": "dbde6153e416a204a765cabc30cd37ea",
           "crc": 1565114926,
+          "size": 1791
+        },
+        {
+          "internalId": "https://dummy.net/asset/Android/loginbonus_assets_loginbonus_sprite_loginbonus_00007_980ecc9fab351f65b7627e1bc3750d23.bundle",
+          "hash": "980ecc9fab351f65b7627e1bc3750d23",
+          "crc": 2729960982,
+          "size": 746468
+        },
+        {
+          "internalId": "https://dummy.net/asset/Android/loginbonus_assets_loginbonus_sprite_loginbonus_00007_sprite_meta_data_4d610aa2cae056268e03ffb4010825c9.bundle",
+          "hash": "4d610aa2cae056268e03ffb4010825c9",
+          "crc": 4104220257,
           "size": 1791
         },
         {
@@ -76487,6 +76715,48 @@
           "size": 6757
         },
         {
+          "internalId": "https://dummy.net/asset/Android/membercard_assets_membercard_71_member_background_c31f2d793ca5aabe0bb0555f534812e9.bundle",
+          "hash": "c31f2d793ca5aabe0bb0555f534812e9",
+          "crc": 1977662987,
+          "size": 1199386
+        },
+        {
+          "internalId": "https://dummy.net/asset/Android/membercard_assets_membercard_71_member_character_a0d15229f09b108a2e6a34b176a2f3ce.bundle",
+          "hash": "a0d15229f09b108a2e6a34b176a2f3ce",
+          "crc": 618635955,
+          "size": 543956
+        },
+        {
+          "internalId": "https://dummy.net/asset/Android/membercard_assets_membercard_71_member_character_sprite_meta_data_119d7d285073dd36ed15f6bd7d4576cd.bundle",
+          "hash": "119d7d285073dd36ed15f6bd7d4576cd",
+          "crc": 96530643,
+          "size": 1709
+        },
+        {
+          "internalId": "https://dummy.net/asset/Android/membercard_assets_membercard_71_member_full_af2006f1f2aa6aa89a14b586dfe67c1d.bundle",
+          "hash": "af2006f1f2aa6aa89a14b586dfe67c1d",
+          "crc": 2668109595,
+          "size": 1197359
+        },
+        {
+          "internalId": "https://dummy.net/asset/Android/membercard_assets_membercard_71_member_full_sprite_meta_data_4893c4a0ad2314d73f84b7a37aac401d.bundle",
+          "hash": "4893c4a0ad2314d73f84b7a37aac401d",
+          "crc": 1020007840,
+          "size": 1723
+        },
+        {
+          "internalId": "https://dummy.net/asset/Android/membercard_assets_membercard_71_member_thumbnail_c4f68b5d8ba075854d6b92578c758484.bundle",
+          "hash": "c4f68b5d8ba075854d6b92578c758484",
+          "crc": 3579557038,
+          "size": 90783
+        },
+        {
+          "internalId": "https://dummy.net/asset/Android/membercard_assets_membercard_71_skill_sprite_05478f32b24866d3a9f394ee26d4b014.bundle",
+          "hash": "05478f32b24866d3a9f394ee26d4b014",
+          "crc": 4091235835,
+          "size": 6747
+        },
+        {
           "internalId": "https://dummy.net/asset/Android/membercard_assets_membercard_7_member_character_6d52a2e8dea959dfb40b519ccaa20e9d.bundle",
           "hash": "6d52a2e8dea959dfb40b519ccaa20e9d",
           "crc": 2374131307,
@@ -76655,10 +76925,10 @@
           "size": 8775
         },
         {
-          "internalId": "https://dummy.net/asset/Android/patch_assets_patch_app.runtime.patch-1.0.6_4d461543b069803f9ee39157dc16b8a7.bundle",
-          "hash": "4d461543b069803f9ee39157dc16b8a7",
-          "crc": 3473532528,
-          "size": 4800
+          "internalId": "https://dummy.net/asset/Android/patch_assets_patch_app.runtime.patch-1.0.6_de878e9de3bcab2f90d65f69f963ce4f.bundle",
+          "hash": "de878e9de3bcab2f90d65f69f963ce4f",
+          "crc": 1583783358,
+          "size": 5050
         },
         {
           "internalId": "https://dummy.net/asset/Android/patch_assets_patch_dummy_66b13f1986e0a5bb1cb379e15fc0f4f4.bundle",
@@ -76695,6 +76965,12 @@
           "hash": "e9563f60e0fed6e2c746ad121e1051a1",
           "crc": 3385290444,
           "size": 37299
+        },
+        {
+          "internalId": "https://dummy.net/asset/Android/seasonpass_assets_seasonpass_banner_banner_seasonpass_00006_5a6a74589bc86f652f8fac2ff339b178.bundle",
+          "hash": "5a6a74589bc86f652f8fac2ff339b178",
+          "crc": 666872552,
+          "size": 35460
         },
         {
           "internalId": "https://dummy.net/asset/Android/shop_assets_shop_dialog_shop_thumb_bili_dialog_1000000120_a19ec7914919ba7a3153b97b0b17b5f6.bundle",
@@ -76863,6 +77139,12 @@
           "hash": "004e6baa9ea0c52cbb936e8aeb4774da",
           "crc": 1447182884,
           "size": 249231
+        },
+        {
+          "internalId": "https://dummy.net/asset/Android/shop_assets_shop_itemthumbnail_shop_thumb_live_01_00002_b91f8e2a27c9b0bfe4b5cc31fc3c0ff2.bundle",
+          "hash": "b91f8e2a27c9b0bfe4b5cc31fc3c0ff2",
+          "crc": 32243312,
+          "size": 288905
         },
         {
           "internalId": "https://dummy.net/asset/Android/shop_assets_shop_itemthumbnail_standard_d3a068fec91f02d2d5c3a75a1e1c1979.bundle",
@@ -77277,6 +77559,12 @@
           "hash": "4883a502b7ed656ca973ba5e6baa6186",
           "crc": 1922122447,
           "size": 37284
+        },
+        {
+          "internalId": "https://dummy.net/asset/Android/shop_assets_shop_tab_bannertab_seasonpass_0006_fcd8603992d453d3f4169843302653cc.bundle",
+          "hash": "fcd8603992d453d3f4169843302653cc",
+          "crc": 2245063587,
+          "size": 35449
         },
         {
           "internalId": "https://dummy.net/asset/Android/spot_assets_spot_commonvolume_immersive_volume_0101_89baa9fbd42a320be74b6ffd37b1cf83.bundle",
@@ -81779,6 +82067,12 @@
           "size": 27830
         },
         {
+          "internalId": "https://dummy.net/asset/Android/story_assets_story_banner_episode_ui_banner_chapter_33_episode_2_c3f81b5798159509da466cc72f5fdad8.bundle",
+          "hash": "c3f81b5798159509da466cc72f5fdad8",
+          "crc": 4274321599,
+          "size": 30262
+        },
+        {
           "internalId": "https://dummy.net/asset/Android/story_assets_story_banner_episode_ui_banner_chapter_3_another_1_6b6c2f2a1b3155a99222ea9b851bf805.bundle",
           "hash": "6b6c2f2a1b3155a99222ea9b851bf805",
           "crc": 2269096685,
@@ -83765,6 +84059,12 @@
           "size": 232753
         },
         {
+          "internalId": "https://dummy.net/asset/Android/story_assets_story_image_episode_ui_image_chapter_33_episode_2_7e4e2154a4685885fe46f8e6e14a814a.bundle",
+          "hash": "7e4e2154a4685885fe46f8e6e14a814a",
+          "crc": 2320890076,
+          "size": 278309
+        },
+        {
           "internalId": "https://dummy.net/asset/Android/story_assets_story_image_episode_ui_image_chapter_3_another_1_a4261f4340a2434b95da485f052e31b5.bundle",
           "hash": "a4261f4340a2434b95da485f052e31b5",
           "crc": 2036710638,
@@ -85655,6 +85955,24 @@
           "size": 69859
         },
         {
+          "internalId": "https://dummy.net/asset/Android/supportcard_assets_supportcard_74_skill_sprite_29e3f7fcdcd093f60cec6cb88af850a6.bundle",
+          "hash": "29e3f7fcdcd093f60cec6cb88af850a6",
+          "crc": 2436610634,
+          "size": 6747
+        },
+        {
+          "internalId": "https://dummy.net/asset/Android/supportcard_assets_supportcard_74_snap_full_a4ad98feab9e2d18286aa6187c0016b7.bundle",
+          "hash": "a4ad98feab9e2d18286aa6187c0016b7",
+          "crc": 269563813,
+          "size": 908430
+        },
+        {
+          "internalId": "https://dummy.net/asset/Android/supportcard_assets_supportcard_74_snap_thumbnail_b61c83364368d2a8580c810dd58c0824.bundle",
+          "hash": "b61c83364368d2a8580c810dd58c0824",
+          "crc": 448254719,
+          "size": 70070
+        },
+        {
           "internalId": "https://dummy.net/asset/Android/supportcard_assets_supportcard_7_skill_sprite_c1728f45371176411e2b664308e0c3d8.bundle",
           "hash": "c1728f45371176411e2b664308e0c3d8",
           "crc": 4058179973,
@@ -85914,9 +86232,9 @@
         },
         {
           "internalId": "{UnityEngine.AddressableAssets.Addressables.RuntimePath}/Android/embbuildtempanchor_assets_all.bundle",
-          "hash": "081fc94f889ca6556fca470268621dc2",
+          "hash": "f2bcfcde16f50ae4573c23ddd6aea54c",
           "crc": 0,
-          "size": 83300
+          "size": 83380
         },
         {
           "internalId": "{UnityEngine.AddressableAssets.Addressables.RuntimePath}/Android/embfont_assets_font-a-otf-shingopr6n-regular-splash.bundle",
@@ -85950,9 +86268,9 @@
         },
         {
           "internalId": "{UnityEngine.AddressableAssets.Addressables.RuntimePath}/Android/embfont_assets_font-fzlth_gb18030l2_r_fb.bundle",
-          "hash": "416b57feaf5b313c28587246606495ba",
+          "hash": "886d02f245baa45461d212c3821533ad",
           "crc": 0,
-          "size": 12895
+          "size": 10823
         },
         {
           "internalId": "{UnityEngine.AddressableAssets.Addressables.RuntimePath}/Android/embfont_assets_font-pretendard-semibold.bundle",
@@ -86095,7 +86413,7 @@
       ]
     },
     "iOS": {
-      "catalog": "iOS/catalog_1.0.6.701.300eb568_zh-Hant.bin",
+      "catalog": "iOS/catalog_1.0.6.800.ed4cb6f0_zh-Hant.bin",
       "assets": [
         {
           "internalId": "https://dummy.net/asset/iOS/adv-chat-data_assets_adv-chat-data-001_tomorieverything_f90b64a4fb592c0fc18e00335775cf71.bundle",
@@ -86674,10 +86992,10 @@
           "size": 20887
         },
         {
-          "internalId": "https://dummy.net/asset/iOS/adv-downloadlist_assets_all_ede48343c1f768a393c5ba99e3037ab6.bundle",
-          "hash": "ede48343c1f768a393c5ba99e3037ab6",
-          "crc": 2060354800,
-          "size": 227034
+          "internalId": "https://dummy.net/asset/iOS/adv-downloadlist_assets_all_ad71fd50e1c34a9b9af134d42dd1c58a.bundle",
+          "hash": "ad71fd50e1c34a9b9af134d42dd1c58a",
+          "crc": 380887096,
+          "size": 224824
         },
         {
           "internalId": "https://dummy.net/asset/iOS/adv-effect_assets_adv-effect-adv_effect_confettieverything_0000686bbb1370b8cfa5f6df4b1afae9.bundle",
@@ -104278,10 +104596,10 @@
           "size": 1811
         },
         {
-          "internalId": "https://dummy.net/asset/iOS/adv_assets_adv_episode_adv_script_anotherstory_10971_adv_script_anotherstory_10971-text_04f623eeafaea320f494f087a0b17b29.bundle",
-          "hash": "04f623eeafaea320f494f087a0b17b29",
-          "crc": 621428884,
-          "size": 14571
+          "internalId": "https://dummy.net/asset/iOS/adv_assets_adv_episode_adv_script_anotherstory_10971_adv_script_anotherstory_10971-text_0c128c6a1a7af8e251eef208fbbc7c5a.bundle",
+          "hash": "0c128c6a1a7af8e251eef208fbbc7c5a",
+          "crc": 2396587464,
+          "size": 14610
         },
         {
           "internalId": "https://dummy.net/asset/iOS/adv_assets_adv_episode_adv_script_anotherstory_10971_adv_script_anotherstory_10971-video_c5b524099614a2b8ce40cfc535c8ccf2.bundle",
@@ -104314,10 +104632,10 @@
           "size": 1859
         },
         {
-          "internalId": "https://dummy.net/asset/iOS/adv_assets_adv_episode_adv_script_anotherstory_10972_adv_script_anotherstory_10972-text_117b183b973d2a578f169f59b1369fd8.bundle",
-          "hash": "117b183b973d2a578f169f59b1369fd8",
-          "crc": 1331772329,
-          "size": 14814
+          "internalId": "https://dummy.net/asset/iOS/adv_assets_adv_episode_adv_script_anotherstory_10972_adv_script_anotherstory_10972-text_ba9cee35703bed399b441aafdebdfb97.bundle",
+          "hash": "ba9cee35703bed399b441aafdebdfb97",
+          "crc": 1507929969,
+          "size": 14861
         },
         {
           "internalId": "https://dummy.net/asset/iOS/adv_assets_adv_episode_adv_script_anotherstory_10972_adv_script_anotherstory_10972-video_3e52db3336466a16b697c741d3237908.bundle",
@@ -105394,10 +105712,10 @@
           "size": 2321
         },
         {
-          "internalId": "https://dummy.net/asset/iOS/adv_assets_adv_episode_adv_script_eventstory_8_01_adv_script_eventstory_8_01-text_cb407eaa40d4930e0117aab6e6be683b.bundle",
-          "hash": "cb407eaa40d4930e0117aab6e6be683b",
-          "crc": 1305271882,
-          "size": 25653
+          "internalId": "https://dummy.net/asset/iOS/adv_assets_adv_episode_adv_script_eventstory_8_01_adv_script_eventstory_8_01-text_373c93a4f42fee14ba71aea7035cda4c.bundle",
+          "hash": "373c93a4f42fee14ba71aea7035cda4c",
+          "crc": 231733603,
+          "size": 25669
         },
         {
           "internalId": "https://dummy.net/asset/iOS/adv_assets_adv_episode_adv_script_eventstory_8_01_adv_script_eventstory_8_01-video_e408ab7c1d729a7544b56679d98002be.bundle",
@@ -105430,10 +105748,10 @@
           "size": 1920
         },
         {
-          "internalId": "https://dummy.net/asset/iOS/adv_assets_adv_episode_adv_script_eventstory_8_02_adv_script_eventstory_8_02-text_13829d5819815aef727c074789d01ea7.bundle",
-          "hash": "13829d5819815aef727c074789d01ea7",
-          "crc": 1116831216,
-          "size": 21450
+          "internalId": "https://dummy.net/asset/iOS/adv_assets_adv_episode_adv_script_eventstory_8_02_adv_script_eventstory_8_02-text_a6843b4996985de3eae8c1d5c52c681f.bundle",
+          "hash": "a6843b4996985de3eae8c1d5c52c681f",
+          "crc": 3158685232,
+          "size": 21514
         },
         {
           "internalId": "https://dummy.net/asset/iOS/adv_assets_adv_episode_adv_script_eventstory_8_02_adv_script_eventstory_8_02-video_c2aebeae5cf51f15b0dd3c08fce0e6ad.bundle",
@@ -105466,10 +105784,10 @@
           "size": 2426
         },
         {
-          "internalId": "https://dummy.net/asset/iOS/adv_assets_adv_episode_adv_script_eventstory_8_03_adv_script_eventstory_8_03-text_e480fa5fe3035030256959e5a243ddc2.bundle",
-          "hash": "e480fa5fe3035030256959e5a243ddc2",
-          "crc": 2959045757,
-          "size": 24217
+          "internalId": "https://dummy.net/asset/iOS/adv_assets_adv_episode_adv_script_eventstory_8_03_adv_script_eventstory_8_03-text_b35f5d45ce859cab75a09dd5aae5a798.bundle",
+          "hash": "b35f5d45ce859cab75a09dd5aae5a798",
+          "crc": 1425906774,
+          "size": 24237
         },
         {
           "internalId": "https://dummy.net/asset/iOS/adv_assets_adv_episode_adv_script_eventstory_8_03_adv_script_eventstory_8_03-video_36dd5912399150f8d7411304d1cf2ee2.bundle",
@@ -105502,10 +105820,10 @@
           "size": 2201
         },
         {
-          "internalId": "https://dummy.net/asset/iOS/adv_assets_adv_episode_adv_script_eventstory_8_04_adv_script_eventstory_8_04-text_e227c042803db9b8e2030fef2185c199.bundle",
-          "hash": "e227c042803db9b8e2030fef2185c199",
-          "crc": 1197999528,
-          "size": 24443
+          "internalId": "https://dummy.net/asset/iOS/adv_assets_adv_episode_adv_script_eventstory_8_04_adv_script_eventstory_8_04-text_4ffa767a851b0c1d81a03ec87f282ac4.bundle",
+          "hash": "4ffa767a851b0c1d81a03ec87f282ac4",
+          "crc": 468011759,
+          "size": 24471
         },
         {
           "internalId": "https://dummy.net/asset/iOS/adv_assets_adv_episode_adv_script_eventstory_8_04_adv_script_eventstory_8_04-video_d0de2f7aea52fe678e77ea17007ab202.bundle",
@@ -105538,10 +105856,10 @@
           "size": 2442
         },
         {
-          "internalId": "https://dummy.net/asset/iOS/adv_assets_adv_episode_adv_script_eventstory_8_05_adv_script_eventstory_8_05-text_b92415abcedec92b20106729c6864718.bundle",
-          "hash": "b92415abcedec92b20106729c6864718",
-          "crc": 626405337,
-          "size": 25900
+          "internalId": "https://dummy.net/asset/iOS/adv_assets_adv_episode_adv_script_eventstory_8_05_adv_script_eventstory_8_05-text_ea21608019d4eff5f9ed656b221fd4bc.bundle",
+          "hash": "ea21608019d4eff5f9ed656b221fd4bc",
+          "crc": 607552217,
+          "size": 25911
         },
         {
           "internalId": "https://dummy.net/asset/iOS/adv_assets_adv_episode_adv_script_eventstory_8_05_adv_script_eventstory_8_05-video_b3e4e876b509e089789b7b07e49479d5.bundle",
@@ -105574,10 +105892,10 @@
           "size": 2184
         },
         {
-          "internalId": "https://dummy.net/asset/iOS/adv_assets_adv_episode_adv_script_eventstory_8_06_adv_script_eventstory_8_06-text_f8a947e8497037d9a953a7009f9d65ef.bundle",
-          "hash": "f8a947e8497037d9a953a7009f9d65ef",
-          "crc": 1655238871,
-          "size": 24807
+          "internalId": "https://dummy.net/asset/iOS/adv_assets_adv_episode_adv_script_eventstory_8_06_adv_script_eventstory_8_06-text_3e2b489d7a8f89a92ad9ebabbd05aa53.bundle",
+          "hash": "3e2b489d7a8f89a92ad9ebabbd05aa53",
+          "crc": 3905160887,
+          "size": 24793
         },
         {
           "internalId": "https://dummy.net/asset/iOS/adv_assets_adv_episode_adv_script_eventstory_8_06_adv_script_eventstory_8_06-video_8c165e9453ea8f61f29928815300123e.bundle",
@@ -105610,10 +105928,10 @@
           "size": 2071
         },
         {
-          "internalId": "https://dummy.net/asset/iOS/adv_assets_adv_episode_adv_script_eventstory_8_07_adv_script_eventstory_8_07-text_8fe4cf26802aa3d1ee56914445af4839.bundle",
-          "hash": "8fe4cf26802aa3d1ee56914445af4839",
-          "crc": 1539716864,
-          "size": 21448
+          "internalId": "https://dummy.net/asset/iOS/adv_assets_adv_episode_adv_script_eventstory_8_07_adv_script_eventstory_8_07-text_0327b51ce94d83bb2fc37802e90ec29b.bundle",
+          "hash": "0327b51ce94d83bb2fc37802e90ec29b",
+          "crc": 3301883450,
+          "size": 21500
         },
         {
           "internalId": "https://dummy.net/asset/iOS/adv_assets_adv_episode_adv_script_eventstory_8_07_adv_script_eventstory_8_07-video_1d085df52ce5e2b3ad99fa4e0a64b6c6.bundle",
@@ -117850,10 +118168,10 @@
           "size": 1696
         },
         {
-          "internalId": "https://dummy.net/asset/iOS/adv_assets_adv_episode_adv_script_hotaru_mahoro_linkstory_2_adv_script_hotaru_mahoro_linkstory_2-text_781fe7ab8acd3686231d5ece6a00c87f.bundle",
-          "hash": "781fe7ab8acd3686231d5ece6a00c87f",
-          "crc": 117784157,
-          "size": 11343
+          "internalId": "https://dummy.net/asset/iOS/adv_assets_adv_episode_adv_script_hotaru_mahoro_linkstory_2_adv_script_hotaru_mahoro_linkstory_2-text_3d48e35431467818ac5ff00f55563c35.bundle",
+          "hash": "3d48e35431467818ac5ff00f55563c35",
+          "crc": 3114965665,
+          "size": 11338
         },
         {
           "internalId": "https://dummy.net/asset/iOS/adv_assets_adv_episode_adv_script_hotaru_mahoro_linkstory_2_adv_script_hotaru_mahoro_linkstory_2-video_bddb2b1e24f978d5b138203acf67e7f6.bundle",
@@ -122098,10 +122416,10 @@
           "size": 1812
         },
         {
-          "internalId": "https://dummy.net/asset/iOS/adv_assets_adv_episode_adv_script_nagi_houka_linkstory_1_adv_script_nagi_houka_linkstory_1-text_0b18a5a481ab261364aa16a5e93f3429.bundle",
-          "hash": "0b18a5a481ab261364aa16a5e93f3429",
-          "crc": 521972227,
-          "size": 9646
+          "internalId": "https://dummy.net/asset/iOS/adv_assets_adv_episode_adv_script_nagi_houka_linkstory_1_adv_script_nagi_houka_linkstory_1-text_908fcb31750c146b404001cb6b62460e.bundle",
+          "hash": "908fcb31750c146b404001cb6b62460e",
+          "crc": 3713045446,
+          "size": 9644
         },
         {
           "internalId": "https://dummy.net/asset/iOS/adv_assets_adv_episode_adv_script_nagi_houka_linkstory_1_adv_script_nagi_houka_linkstory_1-video_030596943a419315bdc066ca29f7a6de.bundle",
@@ -122278,10 +122596,10 @@
           "size": 1866
         },
         {
-          "internalId": "https://dummy.net/asset/iOS/adv_assets_adv_episode_adv_script_nagi_mahoro_linkstory_3_adv_script_nagi_mahoro_linkstory_3-text_b3e9c3e6e832394def16b4d1e523aea9.bundle",
-          "hash": "b3e9c3e6e832394def16b4d1e523aea9",
-          "crc": 1748773127,
-          "size": 10481
+          "internalId": "https://dummy.net/asset/iOS/adv_assets_adv_episode_adv_script_nagi_mahoro_linkstory_3_adv_script_nagi_mahoro_linkstory_3-text_14da733ac2249b378a2d110c44a0debf.bundle",
+          "hash": "14da733ac2249b378a2d110c44a0debf",
+          "crc": 3620688432,
+          "size": 10478
         },
         {
           "internalId": "https://dummy.net/asset/iOS/adv_assets_adv_episode_adv_script_nagi_mahoro_linkstory_3_adv_script_nagi_mahoro_linkstory_3-video_3b54b50514d74fb539b7322aa761cac8.bundle",
@@ -122530,9 +122848,9 @@
           "size": 1795
         },
         {
-          "internalId": "https://dummy.net/asset/iOS/adv_assets_adv_episode_adv_script_natsume_nagi_linkstory_1_adv_script_natsume_nagi_linkstory_1-text_be533d2f1c4559c090ffa2278425c10b.bundle",
-          "hash": "be533d2f1c4559c090ffa2278425c10b",
-          "crc": 1273903940,
+          "internalId": "https://dummy.net/asset/iOS/adv_assets_adv_episode_adv_script_natsume_nagi_linkstory_1_adv_script_natsume_nagi_linkstory_1-text_03abaa164590e72de8d568abff271d64.bundle",
+          "hash": "03abaa164590e72de8d568abff271d64",
+          "crc": 1884143519,
           "size": 11063
         },
         {
@@ -122566,10 +122884,10 @@
           "size": 1842
         },
         {
-          "internalId": "https://dummy.net/asset/iOS/adv_assets_adv_episode_adv_script_natsume_nagi_linkstory_2_adv_script_natsume_nagi_linkstory_2-text_7779e53cf2140fb1007377d93a34034f.bundle",
-          "hash": "7779e53cf2140fb1007377d93a34034f",
-          "crc": 1449281621,
-          "size": 11667
+          "internalId": "https://dummy.net/asset/iOS/adv_assets_adv_episode_adv_script_natsume_nagi_linkstory_2_adv_script_natsume_nagi_linkstory_2-text_f0371567bf5371c18f42c8e8be0d36a9.bundle",
+          "hash": "f0371567bf5371c18f42c8e8be0d36a9",
+          "crc": 4074219706,
+          "size": 11666
         },
         {
           "internalId": "https://dummy.net/asset/iOS/adv_assets_adv_episode_adv_script_natsume_nagi_linkstory_2_adv_script_natsume_nagi_linkstory_2-video_c850f55850e56d141702e88b27101171.bundle",
@@ -122602,9 +122920,9 @@
           "size": 1806
         },
         {
-          "internalId": "https://dummy.net/asset/iOS/adv_assets_adv_episode_adv_script_natsume_nagi_linkstory_3_adv_script_natsume_nagi_linkstory_3-text_8a815f05b1961390104002f54c88141c.bundle",
-          "hash": "8a815f05b1961390104002f54c88141c",
-          "crc": 63208550,
+          "internalId": "https://dummy.net/asset/iOS/adv_assets_adv_episode_adv_script_natsume_nagi_linkstory_3_adv_script_natsume_nagi_linkstory_3-text_650438edca1c24aa3259cb8b48dcbfce.bundle",
+          "hash": "650438edca1c24aa3259cb8b48dcbfce",
+          "crc": 1963014546,
           "size": 10503
         },
         {
@@ -124058,6 +124376,42 @@
           "hash": "4a811d50e5b57af38b3b2ac55e00c906",
           "crc": 3399388589,
           "size": 6546
+        },
+        {
+          "internalId": "https://dummy.net/asset/iOS/adv_assets_adv_episode_adv_script_surprise_11199_adv_script_surprise_11199-episode_b641b36f6adb0aa4ac661f099b9cdef9.bundle",
+          "hash": "b641b36f6adb0aa4ac661f099b9cdef9",
+          "crc": 3521746689,
+          "size": 8877
+        },
+        {
+          "internalId": "https://dummy.net/asset/iOS/adv_assets_adv_episode_adv_script_surprise_11199_adv_script_surprise_11199-sound_06704883bcafdc85e7f63bcfc384b11e.bundle",
+          "hash": "06704883bcafdc85e7f63bcfc384b11e",
+          "crc": 1126874380,
+          "size": 2380
+        },
+        {
+          "internalId": "https://dummy.net/asset/iOS/adv_assets_adv_episode_adv_script_surprise_11199_adv_script_surprise_11199-soundcuesheet_9dee070d208a38e7f009b090acd4e41b.bundle",
+          "hash": "9dee070d208a38e7f009b090acd4e41b",
+          "crc": 4189847346,
+          "size": 1809
+        },
+        {
+          "internalId": "https://dummy.net/asset/iOS/adv_assets_adv_episode_adv_script_surprise_11199_adv_script_surprise_11199-text_9d037913f9c2bac94568fad2ee249436.bundle",
+          "hash": "9d037913f9c2bac94568fad2ee249436",
+          "crc": 3726295789,
+          "size": 7929
+        },
+        {
+          "internalId": "https://dummy.net/asset/iOS/adv_assets_adv_episode_adv_script_surprise_11199_adv_script_surprise_11199-video_776e296be217517dd2fa4436cafcb15f.bundle",
+          "hash": "776e296be217517dd2fa4436cafcb15f",
+          "crc": 4070647857,
+          "size": 1440
+        },
+        {
+          "internalId": "https://dummy.net/asset/iOS/adv_assets_adv_episode_adv_script_surprise_11199_adv_script_surprise_11199_678f96726606110e8f8793a65a5e3e00.bundle",
+          "hash": "678f96726606110e8f8793a65a5e3e00",
+          "crc": 3225165223,
+          "size": 6403
         },
         {
           "internalId": "https://dummy.net/asset/iOS/adv_assets_adv_episode_adv_script_tomori_anon_linkstory_1_adv_script_tomori_anon_linkstory_1-episode_821fa18e4c1d98c1d9102ac88c622d4f.bundle",
@@ -131104,22 +131458,34 @@
           "size": 5699092
         },
         {
-          "internalId": "https://dummy.net/asset/iOS/character-live2d_assets_character-live2d-020_adv-adv_live2d_houka_020_school_winter_hs_1steverythinginitialdownload_613da57f9db907b09374cdacab5f67ae.bundle",
-          "hash": "613da57f9db907b09374cdacab5f67ae",
-          "crc": 31551342,
-          "size": 6024802
+          "internalId": "https://dummy.net/asset/iOS/character-live2d_assets_character-live2d-020_adv-adv_live2d_houka_020_school_winter_hs_1steverythinginitialdownload_c5158ae59846e2e9c8a665893372dcbc.bundle",
+          "hash": "c5158ae59846e2e9c8a665893372dcbc",
+          "crc": 3942040770,
+          "size": 6028399
         },
         {
-          "internalId": "https://dummy.net/asset/iOS/character-live2d_assets_character-live2d-020_adv-adv_live2d_houka_020_school_winter_jhs_2ndeverythinginitialdownload_833532e9969bddacd13348b1bed184fa.bundle",
-          "hash": "833532e9969bddacd13348b1bed184fa",
-          "crc": 1475633633,
-          "size": 6005943
+          "internalId": "https://dummy.net/asset/iOS/character-live2d_assets_character-live2d-020_adv-adv_live2d_houka_020_school_winter_jhs_2ndeverythinginitialdownload_b1236b40f93b56c4493821dfcf9b141c.bundle",
+          "hash": "b1236b40f93b56c4493821dfcf9b141c",
+          "crc": 3106720632,
+          "size": 6022974
         },
         {
           "internalId": "https://dummy.net/asset/iOS/character-live2d_assets_character-live2d-020_adv-adv_live2d_houka_020_school_winter_jhs_3rdeverythinginitialdownload_8f9c646e459589d2ae5dfe0ef4da2a07.bundle",
           "hash": "8f9c646e459589d2ae5dfe0ef4da2a07",
           "crc": 491354353,
           "size": 6010766
+        },
+        {
+          "internalId": "https://dummy.net/asset/iOS/character-live2d_assets_character-live2d-020_live-live2d_houka_020_birthday2627_01_loweverythinginitialdownload_ec957996921f23ba443ab1d5f307426c.bundle",
+          "hash": "ec957996921f23ba443ab1d5f307426c",
+          "crc": 2984660276,
+          "size": 4638696
+        },
+        {
+          "internalId": "https://dummy.net/asset/iOS/character-live2d_assets_character-live2d-020_live-live2d_houka_020_birthday2627_01everythinginitialdownload_cff8943cdfaa0732b3efa11f69e54611.bundle",
+          "hash": "cff8943cdfaa0732b3efa11f69e54611",
+          "crc": 1356305841,
+          "size": 8208116
         },
         {
           "internalId": "https://dummy.net/asset/iOS/character-live2d_assets_character-live2d-020_live-live2d_houka_020_live_01_loweverythinginitialdownload_7d0a6b7f1e925a64a261096c62785038.bundle",
@@ -131134,40 +131500,40 @@
           "size": 9133664
         },
         {
-          "internalId": "https://dummy.net/asset/iOS/character-live2d_assets_character-live2d-021_adv-adv_live2d_raika_021_arbeit_livehouse_01everythinginitialdownload_5e9c17cbb74e7aaa153730071612f93e.bundle",
-          "hash": "5e9c17cbb74e7aaa153730071612f93e",
-          "crc": 3485726406,
-          "size": 3283638
+          "internalId": "https://dummy.net/asset/iOS/character-live2d_assets_character-live2d-021_adv-adv_live2d_raika_021_arbeit_livehouse_01everythinginitialdownload_2b4ff29b3ecd2a2aa18d024cc9b58b85.bundle",
+          "hash": "2b4ff29b3ecd2a2aa18d024cc9b58b85",
+          "crc": 284185971,
+          "size": 3286173
         },
         {
-          "internalId": "https://dummy.net/asset/iOS/character-live2d_assets_character-live2d-021_adv-adv_live2d_raika_021_casual_spring_01everythinginitialdownload_a25ba489126411e8504de31c1a68ddbf.bundle",
-          "hash": "a25ba489126411e8504de31c1a68ddbf",
-          "crc": 1054271663,
-          "size": 5020734
+          "internalId": "https://dummy.net/asset/iOS/character-live2d_assets_character-live2d-021_adv-adv_live2d_raika_021_casual_spring_01everythinginitialdownload_56445a6292120f01b1eb0c96553efce6.bundle",
+          "hash": "56445a6292120f01b1eb0c96553efce6",
+          "crc": 396767660,
+          "size": 5023546
         },
         {
-          "internalId": "https://dummy.net/asset/iOS/character-live2d_assets_character-live2d-021_adv-adv_live2d_raika_021_child_casual_spring_01_stilleverythinginitialdownload_a0ee7c44c5f23852d673a4a972439a45.bundle",
-          "hash": "a0ee7c44c5f23852d673a4a972439a45",
-          "crc": 1020824843,
-          "size": 4116757
+          "internalId": "https://dummy.net/asset/iOS/character-live2d_assets_character-live2d-021_adv-adv_live2d_raika_021_child_casual_spring_01_stilleverythinginitialdownload_637c5ea2d8118903e3dc4b91f5819644.bundle",
+          "hash": "637c5ea2d8118903e3dc4b91f5819644",
+          "crc": 1345862953,
+          "size": 4116249
         },
         {
-          "internalId": "https://dummy.net/asset/iOS/character-live2d_assets_character-live2d-021_adv-adv_live2d_raika_021_live_01everythinginitialdownload_4256a7da2c4fd03fadcd616197b36a5a.bundle",
-          "hash": "4256a7da2c4fd03fadcd616197b36a5a",
-          "crc": 874161660,
-          "size": 3288558
+          "internalId": "https://dummy.net/asset/iOS/character-live2d_assets_character-live2d-021_adv-adv_live2d_raika_021_live_01everythinginitialdownload_9ab6baf98231d93ae02d25ebd04e2d1c.bundle",
+          "hash": "9ab6baf98231d93ae02d25ebd04e2d1c",
+          "crc": 2118364225,
+          "size": 3291994
         },
         {
-          "internalId": "https://dummy.net/asset/iOS/character-live2d_assets_character-live2d-021_adv-adv_live2d_raika_021_roomwear_01everythinginitialdownload_230be290bdd6cb76e0d581dad489250c.bundle",
-          "hash": "230be290bdd6cb76e0d581dad489250c",
-          "crc": 1168608915,
-          "size": 19874310
+          "internalId": "https://dummy.net/asset/iOS/character-live2d_assets_character-live2d-021_adv-adv_live2d_raika_021_roomwear_01everythinginitialdownload_acc2488539535925368d8ba389fcf22e.bundle",
+          "hash": "acc2488539535925368d8ba389fcf22e",
+          "crc": 2684837933,
+          "size": 19877013
         },
         {
-          "internalId": "https://dummy.net/asset/iOS/character-live2d_assets_character-live2d-021_adv-adv_live2d_raika_021_school_winter_hs_2ndeverythinginitialdownload_93472fd5631b0ba0ed531af2e28f4104.bundle",
-          "hash": "93472fd5631b0ba0ed531af2e28f4104",
-          "crc": 2886743318,
-          "size": 4936739
+          "internalId": "https://dummy.net/asset/iOS/character-live2d_assets_character-live2d-021_adv-adv_live2d_raika_021_school_winter_hs_2ndeverythinginitialdownload_1673e35cda12b0295d64d75231c4bb50.bundle",
+          "hash": "1673e35cda12b0295d64d75231c4bb50",
+          "crc": 2137208815,
+          "size": 4939649
         },
         {
           "internalId": "https://dummy.net/asset/iOS/character-live2d_assets_character-live2d-021_live-live2d_raika_021_live_01_loweverythinginitialdownload_aeb31b06a6a3e9817a172d01fee83ff5.bundle",
@@ -131392,10 +131758,10 @@
           "size": 784186
         },
         {
-          "internalId": "https://dummy.net/asset/iOS/character-live2d_assets_character-live2d-sub_itsuki-adv_live2d_sub_itsuki_casual_spring_01everythinginitialdownload_bcd2ec0223488440b149de4484e53428.bundle",
-          "hash": "bcd2ec0223488440b149de4484e53428",
-          "crc": 93639271,
-          "size": 5147313
+          "internalId": "https://dummy.net/asset/iOS/character-live2d_assets_character-live2d-sub_itsuki-adv_live2d_sub_itsuki_casual_spring_01everythinginitialdownload_cea1f1a7e901a8fabba159ddb2f32c87.bundle",
+          "hash": "cea1f1a7e901a8fabba159ddb2f32c87",
+          "crc": 2888631006,
+          "size": 5147308
         },
         {
           "internalId": "https://dummy.net/asset/iOS/character-live2d_assets_character-live2d-sub_itsuki-adv_live2d_sub_itsuki_child_casual_spring_01everythinginitialdownload_83944a1f4cdc4292bf6cf6b3da4971f6.bundle",
@@ -131708,6 +132074,12 @@
           "hash": "fef911f3f601de799f28538a84ca22ab",
           "crc": 2210681746,
           "size": 21472
+        },
+        {
+          "internalId": "https://dummy.net/asset/iOS/character_assets_character_costume_20_icon_costume_berthday_2726_954d7c53121c8c70f2851af6a89ffc54.bundle",
+          "hash": "954d7c53121c8c70f2851af6a89ffc54",
+          "crc": 3729181995,
+          "size": 21793
         },
         {
           "internalId": "https://dummy.net/asset/iOS/character_assets_character_costume_20_icon_costume_default_01_87c3fffb004300e9519007fff9c877a3.bundle",
@@ -134074,6 +134446,12 @@
           "size": 2418688
         },
         {
+          "internalId": "https://dummy.net/asset/iOS/cri_assets_cri/sound/adv_voice_surprise_11199_eb33ba0a4ec1f33f351e37075fb089ee",
+          "hash": "eb33ba0a4ec1f33f351e37075fb089ee",
+          "crc": 0,
+          "size": 1958144
+        },
+        {
           "internalId": "https://dummy.net/asset/iOS/cri_assets_cri/sound/adv_voice_tutorial_10609_c61dad098b8a28198a5b6ee48d2406e2",
           "hash": "c61dad098b8a28198a5b6ee48d2406e2",
           "crc": 0,
@@ -135074,6 +135452,12 @@
           "hash": "b568dddd7084139921196f6b3677b94e",
           "crc": 0,
           "size": 47360
+        },
+        {
+          "internalId": "https://dummy.net/asset/iOS/cri_assets_cri/sound/sound_se_adv_cutlery_d00fed9e8ce3310d61edf8be9c1f8ebc",
+          "hash": "d00fed9e8ce3310d61edf8be9c1f8ebc",
+          "crc": 0,
+          "size": 35072
         },
         {
           "internalId": "https://dummy.net/asset/iOS/cri_assets_cri/sound/sound_se_adv_delusion_comedy_d76636d30ddea2216ddc4d2f1f9bcb45",
@@ -136858,6 +137242,12 @@
           "size": 45664
         },
         {
+          "internalId": "https://dummy.net/asset/iOS/cri_assets_cri/sound/voicegacha_20_00071_581ffea2f48d7a34634bd20bc6a8968a",
+          "hash": "581ffea2f48d7a34634bd20bc6a8968a",
+          "crc": 0,
+          "size": 77024
+        },
+        {
           "internalId": "https://dummy.net/asset/iOS/cri_assets_cri/sound/voicegacha_21_00069_2b8424800b226b904e5c26bdc095ddbb",
           "hash": "2b8424800b226b904e5c26bdc095ddbb",
           "crc": 0,
@@ -137120,6 +137510,12 @@
           "hash": "39786561711cabba8fb70e52921c22e9",
           "crc": 0,
           "size": 5134048
+        },
+        {
+          "internalId": "https://dummy.net/asset/iOS/cri_assets_cri/sound/y_shinzinrui_short_70c8db991e641d0433994e2d9e2f6f84",
+          "hash": "70c8db991e641d0433994e2d9e2f6f84",
+          "crc": 0,
+          "size": 1180128
         },
         {
           "internalId": "https://dummy.net/asset/iOS/cri_assets_cri/video/adv/adv_movie_arale_house_yumemita_01/adv_movie_arale_house_yumemita_01_6fe89b51c3fe6a00ba04d9eb2bbfa5a1",
@@ -140044,6 +140440,12 @@
           "size": 2256
         },
         {
+          "internalId": "https://dummy.net/asset/iOS/cri_assets_cri_sound_adv_voice_surprise_11199_baf48c951ab9b375e03d188fb02942e5.bundle",
+          "hash": "baf48c951ab9b375e03d188fb02942e5",
+          "crc": 1151374416,
+          "size": 2256
+        },
+        {
           "internalId": "https://dummy.net/asset/iOS/cri_assets_cri_sound_adv_voice_tutorial_10609_e063eeed18da73ccd2c1d6eee30f6bb4.bundle",
           "hash": "e063eeed18da73ccd2c1d6eee30f6bb4",
           "crc": 3423463346,
@@ -141854,6 +142256,12 @@
           "hash": "5bd14ad5fb6cce79d51f982767ae24d8",
           "crc": 3772238289,
           "size": 2234
+        },
+        {
+          "internalId": "https://dummy.net/asset/iOS/cri_assets_cri_sound_sound_se_adv_cutlery_1868eb27ee48c36cac9efc090c8c300c.bundle",
+          "hash": "1868eb27ee48c36cac9efc090c8c300c",
+          "crc": 136776731,
+          "size": 2229
         },
         {
           "internalId": "https://dummy.net/asset/iOS/cri_assets_cri_sound_sound_se_adv_delusion_comedy_e33713b05238881ce6c58c7ee87f3f67.bundle",
@@ -143914,6 +144322,12 @@
           "size": 2235
         },
         {
+          "internalId": "https://dummy.net/asset/iOS/cri_assets_cri_sound_voicegacha_20_00071_82d906831af1f5d2bc30413c18a2f490.bundle",
+          "hash": "82d906831af1f5d2bc30413c18a2f490",
+          "crc": 698378074,
+          "size": 2235
+        },
+        {
           "internalId": "https://dummy.net/asset/iOS/cri_assets_cri_sound_voicegacha_21_00069_008ab92755629ffd73254b2c61ea9488.bundle",
           "hash": "008ab92755629ffd73254b2c61ea9488",
           "crc": 4211788264,
@@ -144566,6 +144980,18 @@
           "hash": "461abbf19c61c239de67773669e7d06c",
           "crc": 1780104803,
           "size": 835666
+        },
+        {
+          "internalId": "https://dummy.net/asset/iOS/cri_assets_cri_sound_y_shinzinrui_bcc1764af1c8ea43da71a0327189dedf.bundle",
+          "hash": "bcc1764af1c8ea43da71a0327189dedf",
+          "crc": 2311579716,
+          "size": 3740650
+        },
+        {
+          "internalId": "https://dummy.net/asset/iOS/cri_assets_cri_sound_y_shinzinrui_short_62feca299a5491c3d87286d299517120.bundle",
+          "hash": "62feca299a5491c3d87286d299517120",
+          "crc": 2103045934,
+          "size": 2235
         },
         {
           "internalId": "https://dummy.net/asset/iOS/cri_assets_cri_sound_y_shou_3932fcf9b85dbb9f210162f0f9b567fa.bundle",
@@ -145528,10 +145954,10 @@
           "size": 2526
         },
         {
-          "internalId": "https://dummy.net/asset/iOS/effect-homelanding_assets_effect-homelanding-birthdayeverythinginitialdownload_16bb0ee4461a997488ea3b30f04b0111.bundle",
-          "hash": "16bb0ee4461a997488ea3b30f04b0111",
-          "crc": 2003280461,
-          "size": 356013
+          "internalId": "https://dummy.net/asset/iOS/effect-homelanding_assets_effect-homelanding-birthdayeverythinginitialdownload_18759764baf032e5b72a051e8fc86980.bundle",
+          "hash": "18759764baf032e5b72a051e8fc86980",
+          "crc": 1841049388,
+          "size": 366973
         },
         {
           "internalId": "https://dummy.net/asset/iOS/effect_assets_effect_live_gekisou_ef_gekisou_mask_768bc065716b60ed42fa8f9552a5c8b3.bundle",
@@ -147364,6 +147790,12 @@
           "size": 35204
         },
         {
+          "internalId": "https://dummy.net/asset/iOS/exchange_assets_exchange_banner_banner_26_260dc2adba792941d0bf8ea9151dcf69.bundle",
+          "hash": "260dc2adba792941d0bf8ea9151dcf69",
+          "crc": 3261716648,
+          "size": 37054
+        },
+        {
           "internalId": "https://dummy.net/asset/iOS/exchange_assets_exchange_banner_banner_5_d75225e522eda7146179ebae35b5c1e9.bundle",
           "hash": "d75225e522eda7146179ebae35b5c1e9",
           "crc": 1753394982,
@@ -147622,6 +148054,12 @@
           "size": 1586656
         },
         {
+          "internalId": "https://dummy.net/asset/iOS/gacha_assets_gacha/video/00015/gacha_top_00015_01_b348da2d1b3e55857c59ec0ea1e7befe",
+          "hash": "b348da2d1b3e55857c59ec0ea1e7befe",
+          "crc": 0,
+          "size": 4527744
+        },
+        {
           "internalId": "https://dummy.net/asset/iOS/gacha_assets_gacha_appealimage_guarantee_sr_4f533dfbb1c9c52411357add9d9940bd.bundle",
           "hash": "4f533dfbb1c9c52411357add9d9940bd",
           "crc": 2436020469,
@@ -147722,6 +148160,12 @@
           "hash": "ed7c34b4092393560d0e66b825d107b5",
           "crc": 2507239797,
           "size": 37562
+        },
+        {
+          "internalId": "https://dummy.net/asset/iOS/gacha_assets_gacha_banner_gacha_banner_00015_f1683b7ea8a5470c3959bf393fa013ec.bundle",
+          "hash": "f1683b7ea8a5470c3959bf393fa013ec",
+          "crc": 2138498286,
+          "size": 37408
         },
         {
           "internalId": "https://dummy.net/asset/iOS/gacha_assets_gacha_bg_gacha_bg_00001_b18d4976ab43d7d42a80111ca52498ae.bundle",
@@ -147892,6 +148336,12 @@
           "size": 43504
         },
         {
+          "internalId": "https://dummy.net/asset/iOS/gacha_assets_gacha_logo_gacha_logo_00015_e7595ae653f2a82a5264da717634401c.bundle",
+          "hash": "e7595ae653f2a82a5264da717634401c",
+          "crc": 3622251448,
+          "size": 31443
+        },
+        {
           "internalId": "https://dummy.net/asset/iOS/gacha_assets_gacha_logo_gacha_logo_10_b8704f989b9b8709b74394e6374c1667.bundle",
           "hash": "b8704f989b9b8709b74394e6374c1667",
           "crc": 2874332103,
@@ -147920,6 +148370,12 @@
           "hash": "c4685490884c52250b192a75c0dc1b14",
           "crc": 251241203,
           "size": 43507
+        },
+        {
+          "internalId": "https://dummy.net/asset/iOS/gacha_assets_gacha_logo_gacha_logo_15_94a1d8a279fb76ed4ba6df5f3c240134.bundle",
+          "hash": "94a1d8a279fb76ed4ba6df5f3c240134",
+          "crc": 1875543249,
+          "size": 31439
         },
         {
           "internalId": "https://dummy.net/asset/iOS/gacha_assets_gacha_logo_gacha_logo_1_107c072ae40b4d7528aff8b34da38f02.bundle",
@@ -148136,6 +148592,12 @@
           "hash": "956be99b6a86762de2e1699d4b040264",
           "crc": 4272584615,
           "size": 2560
+        },
+        {
+          "internalId": "https://dummy.net/asset/iOS/gacha_assets_gacha_video_00015_gacha_top_00015_01_3e48e8b7277fafa101f870b665fcf5f8.bundle",
+          "hash": "3e48e8b7277fafa101f870b665fcf5f8",
+          "crc": 1851786327,
+          "size": 2527
         },
         {
           "internalId": "https://dummy.net/asset/iOS/gachaanimation_assets_gachaanimation/temp/temp-transition-movie_6e5cce3170f6aaab6a0954973e43298e",
@@ -148930,10 +149392,10 @@
           "size": 6422
         },
         {
-          "internalId": "https://dummy.net/asset/iOS/gachaanimation_assets_gachaanimation_2_screen_prefab_gachaanimation_member_bd_74b96282637871d049d2ae4c9129fd09.bundle",
-          "hash": "74b96282637871d049d2ae4c9129fd09",
-          "crc": 2915651369,
-          "size": 61148
+          "internalId": "https://dummy.net/asset/iOS/gachaanimation_assets_gachaanimation_2_screen_prefab_gachaanimation_member_bd_4fa0a4e1f6f3e6a6ed9d4a4d74c8d823.bundle",
+          "hash": "4fa0a4e1f6f3e6a6ed9d4a4d74c8d823",
+          "crc": 2270377559,
+          "size": 61151
         },
         {
           "internalId": "https://dummy.net/asset/iOS/gachaanimation_assets_gachaanimation_2_screen_prefab_gachaanimation_member_r_3fdb0e34a51a49f56138117f5a5de60c.bundle",
@@ -150508,6 +150970,12 @@
           "size": 1064206
         },
         {
+          "internalId": "https://dummy.net/asset/iOS/gachaanimation_assets_gachaanimation_banner_tex_gacha_banner_15_da7f17b3c69d6dc54a63382f8f9117dd.bundle",
+          "hash": "da7f17b3c69d6dc54a63382f8f9117dd",
+          "crc": 1340862468,
+          "size": 1067078
+        },
+        {
           "internalId": "https://dummy.net/asset/iOS/gachaanimation_assets_gachaanimation_banner_tex_gacha_banner_1_b0be9dae52655b7c7ca92bc512235a8f.bundle",
           "hash": "b0be9dae52655b7c7ca92bc512235a8f",
           "crc": 2395881082,
@@ -151282,6 +151750,12 @@
           "size": 72148
         },
         {
+          "internalId": "https://dummy.net/asset/iOS/image_assets_image_campaign_birthday_pick_houka_ad355607e7c51b027a210ee2e461619b.bundle",
+          "hash": "ad355607e7c51b027a210ee2e461619b",
+          "crc": 821417229,
+          "size": 8380
+        },
+        {
           "internalId": "https://dummy.net/asset/iOS/image_assets_image_campaign_birthday_pick_miku_317c1e9cb03006a55d65545a3397b996.bundle",
           "hash": "317c1e9cb03006a55d65545a3397b996",
           "crc": 3619972738,
@@ -152012,6 +152486,12 @@
           "hash": "947cb8095cc21a9b8e5a1bbe2e042b2b",
           "crc": 601398548,
           "size": 27657
+        },
+        {
+          "internalId": "https://dummy.net/asset/iOS/image_assets_image_degree_bd_degree_bd_2627_20_91252542f4dfec3da51b14731efb2867.bundle",
+          "hash": "91252542f4dfec3da51b14731efb2867",
+          "crc": 2496078430,
+          "size": 77095
         },
         {
           "internalId": "https://dummy.net/asset/iOS/image_assets_image_degree_bd_degree_bd_2627_22_4a1b44c80aebc926074f97298700037b.bundle",
@@ -152770,10 +153250,10 @@
           "size": 41430
         },
         {
-          "internalId": "https://dummy.net/asset/iOS/image_assets_image_degree_event_01_00003_degree_event_01_00003_d9d1e970edb9a705253d7c76dc618bc7.bundle",
-          "hash": "d9d1e970edb9a705253d7c76dc618bc7",
-          "crc": 2997111860,
-          "size": 252446
+          "internalId": "https://dummy.net/asset/iOS/image_assets_image_degree_event_01_00003_degree_event_01_00003_0f3e705c26612b7c158382e5004ec562.bundle",
+          "hash": "0f3e705c26612b7c158382e5004ec562",
+          "crc": 4253172683,
+          "size": 252371
         },
         {
           "internalId": "https://dummy.net/asset/iOS/image_assets_image_degree_event_01_00003_degree_event_100081_01_24eaeeff8a36ff2dcb4a7269e7ce0561.bundle",
@@ -153008,6 +153488,18 @@
           "hash": "14692e47c31d3f5eba0d5bf43598fe9c",
           "crc": 2755124693,
           "size": 134880
+        },
+        {
+          "internalId": "https://dummy.net/asset/iOS/image_assets_image_degree_media_mujica_degree_7th_live_02_01_2bb52583f2b368d0a6eff9574a79564a.bundle",
+          "hash": "2bb52583f2b368d0a6eff9574a79564a",
+          "crc": 2057033999,
+          "size": 31689
+        },
+        {
+          "internalId": "https://dummy.net/asset/iOS/image_assets_image_degree_media_mujica_degree_7th_live_02_02_ea2f73b636ac69e011187831caae354c.bundle",
+          "hash": "ea2f73b636ac69e011187831caae354c",
+          "crc": 1235000196,
+          "size": 95569
         },
         {
           "internalId": "https://dummy.net/asset/iOS/image_assets_image_degree_media_mujica_degree_movie_01_b5fef9a09192ddf506339be334485579.bundle",
@@ -153362,6 +153854,12 @@
           "hash": "791528f799a79df2b71bad289ebaba30",
           "crc": 1534707557,
           "size": 301266
+        },
+        {
+          "internalId": "https://dummy.net/asset/iOS/image_assets_image_homelanding_promo_homelanding_promo_1_c369f676c0549c57ace9b1a02b3b72c5.bundle",
+          "hash": "c369f676c0549c57ace9b1a02b3b72c5",
+          "crc": 480882441,
+          "size": 342010
         },
         {
           "internalId": "https://dummy.net/asset/iOS/image_assets_image_invitation_banner01_01_608443796f5a53a021e4ac81fcf38784.bundle",
@@ -153806,6 +154304,12 @@
           "hash": "291b58dff5f55683886ddc332063adcc",
           "crc": 366495592,
           "size": 111687
+        },
+        {
+          "internalId": "https://dummy.net/asset/iOS/image_assets_image_jacket_jkt_003_100102_3f03585672e43f250b748761b0d2a873.bundle",
+          "hash": "3f03585672e43f250b748761b0d2a873",
+          "crc": 789281974,
+          "size": 52149
         },
         {
           "internalId": "https://dummy.net/asset/iOS/image_assets_image_jacket_jkt_003_100109_0c1b492a6bd8b19d813c91e05dd0bff8.bundle",
@@ -154352,6 +154856,12 @@
           "hash": "5d898a5fa1c9fc1e561900d4163ec320",
           "crc": 1577574078,
           "size": 11739
+        },
+        {
+          "internalId": "https://dummy.net/asset/iOS/image_assets_image_jacket_small_jkt_003_100102_14f3cf6b164fdce7e9426cade699abd4.bundle",
+          "hash": "14f3cf6b164fdce7e9426cade699abd4",
+          "crc": 756156062,
+          "size": 10266
         },
         {
           "internalId": "https://dummy.net/asset/iOS/image_assets_image_jacket_small_jkt_003_100109_034318c8e364fe2bb895d9636d697f23.bundle",
@@ -154948,10 +155458,10 @@
           "size": 21367
         },
         {
-          "internalId": "https://dummy.net/asset/iOS/item_assets_all_1d65e2ef92a68a7f306d656732d724f7.bundle",
-          "hash": "1d65e2ef92a68a7f306d656732d724f7",
-          "crc": 1660997833,
-          "size": 925016
+          "internalId": "https://dummy.net/asset/iOS/item_assets_all_90bf262f2ccb226d7acdda291f2ff19c.bundle",
+          "hash": "90bf262f2ccb226d7acdda291f2ff19c",
+          "crc": 3927091933,
+          "size": 938639
         },
         {
           "internalId": "https://dummy.net/asset/iOS/live-note_assets_everythinglive-note-skin001_7ceb0c254c151eb0164a4082f5ddd3c5.bundle",
@@ -156920,6 +157430,30 @@
           "hash": "7cba607b268fec26b17323e7aa05734a",
           "crc": 681460086,
           "size": 4784
+        },
+        {
+          "internalId": "https://dummy.net/asset/iOS/live_assets_live_musicscore_0102_0102_00_22da5711ef1ba7bbe055d554723b456c.bundle",
+          "hash": "22da5711ef1ba7bbe055d554723b456c",
+          "crc": 350368356,
+          "size": 2219
+        },
+        {
+          "internalId": "https://dummy.net/asset/iOS/live_assets_live_musicscore_0102_0102_01_25d3771bc24b1826faced7951a9308e9.bundle",
+          "hash": "25d3771bc24b1826faced7951a9308e9",
+          "crc": 2353177876,
+          "size": 2870
+        },
+        {
+          "internalId": "https://dummy.net/asset/iOS/live_assets_live_musicscore_0102_0102_02_f29953b0a7c33e70305e836d0c577576.bundle",
+          "hash": "f29953b0a7c33e70305e836d0c577576",
+          "crc": 1304562094,
+          "size": 4134
+        },
+        {
+          "internalId": "https://dummy.net/asset/iOS/live_assets_live_musicscore_0102_0102_03_e116d1f046baf76561c09ca4a202e0d2.bundle",
+          "hash": "e116d1f046baf76561c09ca4a202e0d2",
+          "crc": 1513663214,
+          "size": 7089
         },
         {
           "internalId": "https://dummy.net/asset/iOS/live_assets_live_musicscore_0104_0104_00_e5db2f4f4e992f214c52e2aa15a016bb.bundle",
@@ -158992,9 +159526,9 @@
           "size": 819014
         },
         {
-          "internalId": "https://dummy.net/asset/iOS/loginbonus_assets_loginbonus_sprite_loginbonus_00004_f8be19f5c0fda19d1ecf1cdc49d23352.bundle",
-          "hash": "f8be19f5c0fda19d1ecf1cdc49d23352",
-          "crc": 640641740,
+          "internalId": "https://dummy.net/asset/iOS/loginbonus_assets_loginbonus_sprite_loginbonus_00004_b24adf407d0a44ca74ad95b811052f71.bundle",
+          "hash": "b24adf407d0a44ca74ad95b811052f71",
+          "crc": 2119590356,
           "size": 515591
         },
         {
@@ -159025,6 +159559,18 @@
           "internalId": "https://dummy.net/asset/iOS/loginbonus_assets_loginbonus_sprite_loginbonus_00006_sprite_meta_data_c8a2bbb6210ac99e312c064b1924e168.bundle",
           "hash": "c8a2bbb6210ac99e312c064b1924e168",
           "crc": 3710880833,
+          "size": 1789
+        },
+        {
+          "internalId": "https://dummy.net/asset/iOS/loginbonus_assets_loginbonus_sprite_loginbonus_00007_82d1bf15fac7a66d68bb80526659fb33.bundle",
+          "hash": "82d1bf15fac7a66d68bb80526659fb33",
+          "crc": 3839057024,
+          "size": 746468
+        },
+        {
+          "internalId": "https://dummy.net/asset/iOS/loginbonus_assets_loginbonus_sprite_loginbonus_00007_sprite_meta_data_45ed10ee41b4c26f11c325c1bfb9db8f.bundle",
+          "hash": "45ed10ee41b4c26f11c325c1bfb9db8f",
+          "crc": 3345754642,
           "size": 1789
         },
         {
@@ -162580,6 +163126,48 @@
           "size": 6757
         },
         {
+          "internalId": "https://dummy.net/asset/iOS/membercard_assets_membercard_71_member_background_90fde556e5bc1e38ea2092887bdd985f.bundle",
+          "hash": "90fde556e5bc1e38ea2092887bdd985f",
+          "crc": 2693930709,
+          "size": 1199386
+        },
+        {
+          "internalId": "https://dummy.net/asset/iOS/membercard_assets_membercard_71_member_character_86a38e504979bc3bb54177c4b7785cb9.bundle",
+          "hash": "86a38e504979bc3bb54177c4b7785cb9",
+          "crc": 2875789237,
+          "size": 543956
+        },
+        {
+          "internalId": "https://dummy.net/asset/iOS/membercard_assets_membercard_71_member_character_sprite_meta_data_7d3e9c071a15fb9d69f9db3026b8207b.bundle",
+          "hash": "7d3e9c071a15fb9d69f9db3026b8207b",
+          "crc": 3825437293,
+          "size": 1709
+        },
+        {
+          "internalId": "https://dummy.net/asset/iOS/membercard_assets_membercard_71_member_full_479ed62a1fd0f55a21d8fe1c0790bbf2.bundle",
+          "hash": "479ed62a1fd0f55a21d8fe1c0790bbf2",
+          "crc": 29483177,
+          "size": 1197359
+        },
+        {
+          "internalId": "https://dummy.net/asset/iOS/membercard_assets_membercard_71_member_full_sprite_meta_data_2aaefde9e31b59ccdca44a3599b1f415.bundle",
+          "hash": "2aaefde9e31b59ccdca44a3599b1f415",
+          "crc": 2189993355,
+          "size": 1721
+        },
+        {
+          "internalId": "https://dummy.net/asset/iOS/membercard_assets_membercard_71_member_thumbnail_67c460fc85beb0a21813b99439ce1861.bundle",
+          "hash": "67c460fc85beb0a21813b99439ce1861",
+          "crc": 2468352319,
+          "size": 90783
+        },
+        {
+          "internalId": "https://dummy.net/asset/iOS/membercard_assets_membercard_71_skill_sprite_adfb28d73fd14f205d83cc714f8be08c.bundle",
+          "hash": "adfb28d73fd14f205d83cc714f8be08c",
+          "crc": 57841386,
+          "size": 6747
+        },
+        {
           "internalId": "https://dummy.net/asset/iOS/membercard_assets_membercard_7_member_character_e7aa1987c375fbd02c3cd8ed0b0f1281.bundle",
           "hash": "e7aa1987c375fbd02c3cd8ed0b0f1281",
           "crc": 3359835477,
@@ -162748,10 +163336,10 @@
           "size": 8775
         },
         {
-          "internalId": "https://dummy.net/asset/iOS/patch_assets_patch_app.runtime.patch-1.0.6_4d461543b069803f9ee39157dc16b8a7.bundle",
-          "hash": "4d461543b069803f9ee39157dc16b8a7",
-          "crc": 3374531316,
-          "size": 4801
+          "internalId": "https://dummy.net/asset/iOS/patch_assets_patch_app.runtime.patch-1.0.6_de878e9de3bcab2f90d65f69f963ce4f.bundle",
+          "hash": "de878e9de3bcab2f90d65f69f963ce4f",
+          "crc": 3456925486,
+          "size": 5050
         },
         {
           "internalId": "https://dummy.net/asset/iOS/patch_assets_patch_dummy_66b13f1986e0a5bb1cb379e15fc0f4f4.bundle",
@@ -162788,6 +163376,12 @@
           "hash": "0bb7ae55533f1d1cf2aa34b7a57eaff3",
           "crc": 2282297637,
           "size": 37299
+        },
+        {
+          "internalId": "https://dummy.net/asset/iOS/seasonpass_assets_seasonpass_banner_banner_seasonpass_00006_99d4f319b7ab2276ae781278254dd753.bundle",
+          "hash": "99d4f319b7ab2276ae781278254dd753",
+          "crc": 4228527214,
+          "size": 35460
         },
         {
           "internalId": "https://dummy.net/asset/iOS/shop_assets_shop_dialog_shop_thumb_bili_dialog_1000000120_9abf64393df5cf462ea5777234bede70.bundle",
@@ -162956,6 +163550,12 @@
           "hash": "9579d3754ff3fa72a654f5c11ca52f96",
           "crc": 1820904598,
           "size": 249231
+        },
+        {
+          "internalId": "https://dummy.net/asset/iOS/shop_assets_shop_itemthumbnail_shop_thumb_live_01_00002_66f9765d064b51b818b154ba73528196.bundle",
+          "hash": "66f9765d064b51b818b154ba73528196",
+          "crc": 2951409883,
+          "size": 288905
         },
         {
           "internalId": "https://dummy.net/asset/iOS/shop_assets_shop_itemthumbnail_standard_100a2ddfc2710c66a3fc3dac65fc7627.bundle",
@@ -163370,6 +163970,12 @@
           "hash": "fe674d3699e0edc058d748566b76ccc5",
           "crc": 1676381258,
           "size": 37284
+        },
+        {
+          "internalId": "https://dummy.net/asset/iOS/shop_assets_shop_tab_bannertab_seasonpass_0006_61e03bdd5b7fe6228abb8e4769ba280b.bundle",
+          "hash": "61e03bdd5b7fe6228abb8e4769ba280b",
+          "crc": 3067540977,
+          "size": 35449
         },
         {
           "internalId": "https://dummy.net/asset/iOS/spot_assets_spot_commonvolume_immersive_volume_0101_4d6358e9a5240c2110c73a0ba9466860.bundle",
@@ -167872,6 +168478,12 @@
           "size": 27830
         },
         {
+          "internalId": "https://dummy.net/asset/iOS/story_assets_story_banner_episode_ui_banner_chapter_33_episode_2_6e310e297df5dc90b2075e252f2ab34c.bundle",
+          "hash": "6e310e297df5dc90b2075e252f2ab34c",
+          "crc": 2652906059,
+          "size": 30262
+        },
+        {
           "internalId": "https://dummy.net/asset/iOS/story_assets_story_banner_episode_ui_banner_chapter_3_another_1_4edf2a8abf2bccd6aec3f7633cc561e2.bundle",
           "hash": "4edf2a8abf2bccd6aec3f7633cc561e2",
           "crc": 1546206996,
@@ -169858,6 +170470,12 @@
           "size": 232753
         },
         {
+          "internalId": "https://dummy.net/asset/iOS/story_assets_story_image_episode_ui_image_chapter_33_episode_2_871047321dc3ef83f0d2d81c0033687c.bundle",
+          "hash": "871047321dc3ef83f0d2d81c0033687c",
+          "crc": 1706898152,
+          "size": 278309
+        },
+        {
           "internalId": "https://dummy.net/asset/iOS/story_assets_story_image_episode_ui_image_chapter_3_another_1_0770cb7ce77cc630ffbedee41bc32824.bundle",
           "hash": "0770cb7ce77cc630ffbedee41bc32824",
           "crc": 2447006779,
@@ -171748,6 +172366,24 @@
           "size": 69859
         },
         {
+          "internalId": "https://dummy.net/asset/iOS/supportcard_assets_supportcard_74_skill_sprite_8cdd6732b61a03f4f7504b645314baa6.bundle",
+          "hash": "8cdd6732b61a03f4f7504b645314baa6",
+          "crc": 3191122433,
+          "size": 6747
+        },
+        {
+          "internalId": "https://dummy.net/asset/iOS/supportcard_assets_supportcard_74_snap_full_960a7f843ac79fc45a7def2176e25d33.bundle",
+          "hash": "960a7f843ac79fc45a7def2176e25d33",
+          "crc": 1545756638,
+          "size": 908430
+        },
+        {
+          "internalId": "https://dummy.net/asset/iOS/supportcard_assets_supportcard_74_snap_thumbnail_4482dee45efe3b94593373529cb2cc6b.bundle",
+          "hash": "4482dee45efe3b94593373529cb2cc6b",
+          "crc": 1710995505,
+          "size": 70070
+        },
+        {
           "internalId": "https://dummy.net/asset/iOS/supportcard_assets_supportcard_7_skill_sprite_d4231945a7bb5d91b2f8adae019906fa.bundle",
           "hash": "d4231945a7bb5d91b2f8adae019906fa",
           "crc": 1527297493,
@@ -172007,9 +172643,9 @@
         },
         {
           "internalId": "{UnityEngine.AddressableAssets.Addressables.RuntimePath}/iOS/embbuildtempanchor_assets_all.bundle",
-          "hash": "a18d445bbf84c81458e1d8c32c825216",
+          "hash": "2de29501cb5e7c4ac6e37657b98aa8ed",
           "crc": 0,
-          "size": 85243
+          "size": 85244
         },
         {
           "internalId": "{UnityEngine.AddressableAssets.Addressables.RuntimePath}/iOS/embfont_assets_font-a-otf-shingopr6n-regular-splash.bundle",
